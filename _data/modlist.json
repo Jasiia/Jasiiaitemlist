@@ -69,7 +69,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9325.39569"
+    "version": "1.0.9332.29106"
   },
   {
     "author": "Spdskatr and CaesarV6",
@@ -171,7 +171,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.3+19591e2831845cc886bd5cb870728e53761882f0"
+    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
   },
   {
     "author": "dhultgren",
@@ -264,6 +264,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -351,7 +363,7 @@
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
     "name": "RimFridge: Now with Shelves!",
     "steamId": "2898411376",
-    "version": "1.0.0+f8c6de0425dabfecefecc5a0a7d0d670bbe4566a"
+    "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
   },
   {
     "author": "Sierra",
@@ -404,8 +416,8 @@
   {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Erin and Sarg Bjornson",
@@ -621,7 +633,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.6.1.0"
+    "version": "1.6.3.3"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -650,8 +662,8 @@
   {
     "author": "HaiLuan and 昏暗",
     "name": "Cat Hiss",
-    "steamId": null,
-    "version": null
+    "steamId": "3523843973",
+    "version": "1.0.0.0"
   },
   {
     "author": "The Biomes Mod Team",
@@ -681,6 +693,72 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.20+30c308d6228c29f03e2a3138829df73ded68e7df"
+    "version": "1.12.21+651341b315d95aeea69c6c135a55e57dc9a7ae8a"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Touch Animal (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ingendum",
+    "name": "Animal Apparel: Vac Belt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ingendum",
+    "name": "Animal Apparel: Framework",
+    "steamId": "3513825850",
+    "version": "1.6+831110631f522c202f398546196b1943fcb4c898"
+  },
+  {
+    "author": "Poncho",
+    "name": "Automatic Hydroponics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steel Chicken",
+    "name": "Devilstrand Hydroponics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kilo",
+    "name": "Gravship Captain Helmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mr.Wireman",
+    "name": "No conduit on Gravship",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EvilToaster",
+    "name": "Odyssey Transport Shuttle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andross",
+    "name": "Royal Thrumbos (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
   }
 ]
