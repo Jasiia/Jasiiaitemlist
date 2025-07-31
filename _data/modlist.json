@@ -33,7 +33,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "4.0.3.0"
+    "version": "4.1.3.0"
   },
   {
     "author": "marcin212",
@@ -69,7 +69,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9332.29106"
+    "version": "1.0.9340.31035"
   },
   {
     "author": "Spdskatr and CaesarV6",
@@ -171,7 +171,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.4+4c4c716d7c8ecdf05871c56d1319e69547ab277e"
+    "version": "1.16.6+36c29671c10764fa702953ff7de8b52159959ead"
   },
   {
     "author": "dhultgren",
@@ -276,6 +276,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -330,10 +336,16 @@
     "version": "2.8.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+65e4be5d05edcda639a965e683c25b44eda782b5"
+    "version": "1.0.0+9b82db6e97475d7c49a98fed86253ab7cb7504e5"
   },
   {
     "author": "Andromeda",
@@ -345,12 +357,6 @@
     "author": "Windows XP",
     "name": "No Trap Friendly Fire",
     "steamId": "2886952617",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul Unoffical (1.6)",
-    "steamId": "3500985533",
     "version": "1.0.0"
   },
   {
@@ -514,6 +520,12 @@
     "name": "Vanilla Ideology Expanded - Hats and Rags",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -693,7 +705,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.21+651341b315d95aeea69c6c135a55e57dc9a7ae8a"
+    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
   },
   {
     "author": "Shadowrabbit",
@@ -714,20 +726,20 @@
     "version": "1.6+831110631f522c202f398546196b1943fcb4c898"
   },
   {
-    "author": "Poncho",
-    "name": "Automatic Hydroponics",
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Steel Chicken",
-    "name": "Devilstrand Hydroponics",
-    "steamId": null,
-    "version": null
+    "author": "Poncho",
+    "name": "Automatic Hydroponics",
+    "steamId": "3528490718",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kilo",
-    "name": "Gravship Captain Helmet",
+    "name": "Gravship Captain Set",
     "steamId": null,
     "version": null
   },
@@ -758,6 +770,132 @@
   {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogre",
+    "name": "Advanced Hydroponics",
+    "steamId": "2237396205",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.12.0+a59cdba300ba869f4aa5e1b82eebf783ea26f517"
+  },
+  {
+    "author": "Crimson",
+    "name": "[CF] Odyssey Upscaled 4x",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ELUN982697019",
+    "name": "[MUS]太空基地家具Space Base Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Gravship Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KScav",
+    "name": "Alpha Animals Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.6",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded for RW 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Halituis Amaricanus",
+    "name": "Astronomy Style Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "joolsdgg",
+    "name": "Cargo Holds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chaingunfighter1 / Slippin' Jimmy",
+    "name": "HLRW - The Combine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "3532608331",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "leafzxg",
+    "name": "Master of Crafting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spino and Sarg",
+    "name": "Megafauna",
+    "steamId": "1055485938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Albion",
+    "name": "Sparkling Worlds Addon - Weapons - Standalone Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Glittertech Expansion",
+    "steamId": "3522676478",
+    "version": "0.1.0.0+5782e29e29969eaf36fed0e34dce78035432625f"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Visible Wealth",
+    "steamId": "3461137081",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rince",
+    "name": "VRE Android Factions",
     "steamId": null,
     "version": null
   }
