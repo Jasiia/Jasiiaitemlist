@@ -116,11 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
@@ -161,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -194,11 +184,6 @@
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
@@ -287,7 +272,7 @@
 	},
 	{
 		"abr": "item",
-		"price": 1,
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -426,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 82
 }
