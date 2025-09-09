@@ -195,7 +195,7 @@
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 1000,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -231,7 +231,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "psychicdrone": {
+  "drone": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -239,7 +239,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "psychicsoothe": {
+  "soothe": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -362,7 +362,7 @@
   "raid": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
