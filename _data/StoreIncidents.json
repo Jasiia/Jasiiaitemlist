@@ -136,6 +136,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "ambrosiasprout",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "herdmigration",
 		"price": 200,
 		"karmatype": "Good"
@@ -179,6 +184,11 @@
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
@@ -226,6 +236,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "manhunterpack",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -243,6 +258,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -267,7 +287,7 @@
 	},
 	{
 		"abr": "item",
-		"price": 50,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -387,12 +407,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 3000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -406,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 81
+	"total": 85
 }
