@@ -5131,24 +5131,6 @@
 		"defname": "GastroAnalyzer"
 	},
 	{
-		"abr": "gausslance",
-		"price": 3508,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_GaussLance"
-	},
-	{
-		"abr": "gaussmagnum",
-		"price": 817,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_GaussMagnum"
-	},
-	{
-		"abr": "gaussrifle",
-		"price": 1392,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_GaussRifle"
-	},
-	{
 		"abr": "genebank",
 		"price": 242,
 		"category": "Production",
@@ -5879,48 +5861,6 @@
 		"price": 4000,
 		"category": "Special",
 		"defname": "VFE_LargeVanometricPowerCell"
-	},
-	{
-		"abr": "laserminigun",
-		"price": 7500,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_LaserMinigun"
-	},
-	{
-		"abr": "laserpistol",
-		"price": 3333,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_LaserPistol"
-	},
-	{
-		"abr": "laserrifle",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_LaserRifle"
-	},
-	{
-		"abr": "lasershotgun",
-		"price": 5333,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_LaserShotgun"
-	},
-	{
-		"abr": "lasersmg",
-		"price": 4000,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_LaserSMG"
-	},
-	{
-		"abr": "lasersniperrifle",
-		"price": 6000,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_LaserSniperRifle"
-	},
-	{
-		"abr": "lasersword",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "VWEL_LaserSword"
 	},
 	{
 		"abr": "lattecoffee",
@@ -7331,30 +7271,6 @@
 		"price": 3,
 		"category": "Condiments",
 		"defname": "VCE_Salt"
-	},
-	{
-		"abr": "salvagedlaserpistol",
-		"price": 2500,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_SalvagedLaserPistol"
-	},
-	{
-		"abr": "salvagedlaserrifle",
-		"price": 3250,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_SalvagedLaserRifle"
-	},
-	{
-		"abr": "salvagedlasershotgun",
-		"price": 3417,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_SalvagedLaserShotgun"
-	},
-	{
-		"abr": "salvagedlasersniperrifle",
-		"price": 3667,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
 	},
 	{
 		"abr": "scarecrow",
@@ -8927,12 +8843,6 @@
 		"price": 4,
 		"category": "Musts and syrups",
 		"defname": "VBE_TequilaMust"
-	},
-	{
-		"abr": "teslagun",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "VWEL_Gun_TeslaGun"
 	},
 	{
 		"abr": "thrumbomane",
@@ -11665,12 +11575,6 @@
 		"defname": "VCEF_Arapaima"
 	},
 	{
-		"abr": "autocannon",
-		"price": 1017,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_Autocannon"
-	},
-	{
 		"abr": "butterfish(adeptcatch)",
 		"price": 11,
 		"category": "Fish",
@@ -11705,12 +11609,6 @@
 		"price": 11,
 		"category": "Fish",
 		"defname": "VCEF_RawEel"
-	},
-	{
-		"abr": "exoskeletonframe",
-		"price": 1167,
-		"category": "Utility",
-		"defname": "VWE_Apparel_Exoframe"
 	},
 	{
 		"abr": "femaleroyalthrumbohorn",
@@ -11765,18 +11663,6 @@
 		"price": 11,
 		"category": "Fish",
 		"defname": "VCEF_RawHalibut"
-	},
-	{
-		"abr": "handheldmortar",
-		"price": 842,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_HandheldMortar"
-	},
-	{
-		"abr": "heavyflamer",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_HeavyFlamer"
 	},
 	{
 		"abr": "herring",
@@ -11917,12 +11803,6 @@
 		"defname": "VCE_SushiPrepTable"
 	},
 	{
-		"abr": "swarmmissilelauncher",
-		"price": 1608,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_SwarmMissileLauncher"
-	},
-	{
 		"abr": "swordfish",
 		"price": 43,
 		"category": "Fish",
@@ -11951,12 +11831,6 @@
 		"price": 33,
 		"category": "Meals",
 		"defname": "VCE_Uramaki"
-	},
-	{
-		"abr": "uraniumslugrifle",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_UraniumSlugRifle"
 	},
 	{
 		"abr": "vacuumbelt",
@@ -12295,12 +12169,6 @@
 		"defname": "AA_BoulderMit"
 	},
 	{
-		"abr": "bulletstorm",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_BulletstormSW"
-	},
-	{
 		"abr": "bumbledrone",
 		"price": 583,
 		"category": "Animals",
@@ -12323,12 +12191,6 @@
 		"price": 750,
 		"category": "Animals",
 		"defname": "AA_BumbledroneQueen"
-	},
-	{
-		"abr": "burngauntlet",
-		"price": 417,
-		"category": "Melee weapons",
-		"defname": "BurnStickSW"
 	},
 	{
 		"abr": "butterflyegg(unfert.)",
@@ -12661,12 +12523,6 @@
 		"defname": "ElasmotheriumWool"
 	},
 	{
-		"abr": "empgrenadebelt",
-		"price": 525,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeEMPBelt"
-	},
-	{
 		"abr": "empressbutterfly",
 		"price": 1083,
 		"category": "Animals",
@@ -12787,12 +12643,6 @@
 		"defname": "LWM_Food_Basket"
 	},
 	{
-		"abr": "fraggrenadebelt",
-		"price": 442,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeFragBelt"
-	},
-	{
 		"abr": "frostave",
 		"price": 667,
 		"category": "Animals",
@@ -12845,18 +12695,6 @@
 		"price": 27,
 		"category": "Leathers",
 		"defname": "Leather_Gallatross"
-	},
-	{
-		"abr": "gausslance",
-		"price": 2058,
-		"category": "Ranged weapons",
-		"defname": "Gun_RailgunSW"
-	},
-	{
-		"abr": "gaussrifle",
-		"price": 1925,
-		"category": "Ranged weapons",
-		"defname": "Gun_GaussrifleSW"
 	},
 	{
 		"abr": "genix",
@@ -13303,12 +13141,6 @@
 		"defname": "AA_Mime"
 	},
 	{
-		"abr": "molotovbelt",
-		"price": 408,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeMolotovBelt"
-	},
-	{
 		"abr": "moribundgallatross",
 		"price": 12500,
 		"category": "Animals",
@@ -13453,18 +13285,6 @@
 		"defname": "AA_OvergrownColossus"
 	},
 	{
-		"abr": "paingun",
-		"price": 1392,
-		"category": "Ranged weapons",
-		"defname": "Gun_PainGunSW"
-	},
-	{
-		"abr": "painstick",
-		"price": 400,
-		"category": "Melee weapons",
-		"defname": "PainStickSW"
-	},
-	{
 		"abr": "palaeeudyptes",
 		"price": 1833,
 		"category": "Animals",
@@ -13529,12 +13349,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "AA_CactusMeat"
-	},
-	{
-		"abr": "plasmagun",
-		"price": 2308,
-		"category": "Ranged weapons",
-		"defname": "Gun_PlasmaGunSW"
 	},
 	{
 		"abr": "plasmorph",
@@ -14303,12 +14117,6 @@
 		"price": 333,
 		"category": "Eggs (fert.)",
 		"defname": "EggTitanoboaFertilized"
-	},
-	{
-		"abr": "toxgrenadebelt",
-		"price": 525,
-		"category": "Utility",
-		"defname": "VWE_Apparel_GrenadeToxicBelt"
 	},
 	{
 		"abr": "uintatherium",
@@ -15559,12 +15367,6 @@
 		"defname": "VFES_Weapon_GrenadeDynamite"
 	},
 	{
-		"abr": "dynamitebelt",
-		"price": 658,
-		"category": "Utility",
-		"defname": "VWE_Apparel_DynamiteBelt"
-	},
-	{
 		"abr": "electricboiler",
 		"price": 425,
 		"category": "Hygiene",
@@ -16505,205 +16307,7 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Synth"
-	},
-	{
-		"abr": "techprint(heavyammunitionsupply)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_Research_Balistarium"
-	},
-	{
-		"abr": "techprint(longdistancetargetlocking)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_Research_Pilum"
-	},
-	{
-		"abr": "thermostat",
-		"price": 86,
-		"category": "Hygiene",
-		"defname": "Thermostat"
-	},
-	{
-		"abr": "throwspikes",
-		"price": 41,
-		"category": "Ranged weapons",
-		"defname": "VFET_Throwspikes"
-	},
-	{
-		"abr": "toilet",
-		"price": 72,
-		"category": "Hygiene",
-		"defname": "ToiletStuff"
-	},
-	{
-		"abr": "tomahawk",
-		"price": 210,
-		"category": "Ranged weapons",
-		"defname": "VFES_Tomahawk"
-	},
-	{
-		"abr": "towelrail",
-		"price": 85,
-		"category": "Hygiene",
-		"defname": "RadiatorTowelRail"
-	},
-	{
-		"abr": "toxglass",
-		"price": 7,
-		"category": "Raw resources",
-		"defname": "FEB_Toxglass"
-	},
-	{
-		"abr": "toxoga",
-		"price": 1083,
-		"category": "Animals",
-		"defname": "FEB_Toxoga"
-	},
-	{
-		"abr": "turquoisegreencheekconure",
-		"price": 250,
-		"category": "Animals",
-		"defname": "TurquoiseConure"
-	},
-	{
-		"abr": "turquoisegreencheekconureegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "EggTurquoiseConureFertilized"
-	},
-	{
-		"abr": "turquoisegreencheekconureegg(unfert.)",
-		"price": 17,
-		"category": "Eggs (unfert.)",
-		"defname": "EggTurquoiseConureUnfertilized"
-	},
-	{
-		"abr": "turtledove",
-		"price": 83,
-		"category": "Animals",
-		"defname": "TurtleDove"
-	},
-	{
-		"abr": "turtledoveegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "EggTurtleDoveFertilized"
-	},
-	{
-		"abr": "turtledoveegg(unfert.)",
-		"price": 17,
-		"category": "Eggs (unfert.)",
-		"defname": "EggTurtleDoveUnfertilized"
-	},
-	{
-		"abr": "vaccalo",
-		"price": 667,
-		"category": "Animals",
-		"defname": "OCARINA_Vaccalo"
-	},
-	{
-		"abr": "vacuumtoilet",
-		"price": 517,
-		"category": "Hygiene",
-		"defname": "ToiletSpacer"
-	},
-	{
-		"abr": "vest",
-		"price": 183,
-		"category": "Apparel",
-		"defname": "Apparel_Vest"
-	},
-	{
-		"abr": "voidlinkpack",
-		"price": 7583,
-		"category": "Utility",
-		"defname": "AM_VoidlinkPack"
-	},
-	{
-		"abr": "w1ngsuit",
-		"price": 1342,
-		"category": "Armor",
-		"defname": "W1NGSuit"
-	},
-	{
-		"abr": "w1ngsuithelmet",
-		"price": 608,
-		"category": "Headgear",
-		"defname": "W1NGSuitHelmet"
-	},
-	{
-		"abr": "walk-infreezerunit",
-		"price": 153,
-		"category": "Hygiene",
-		"defname": "FreezerUnit"
-	},
-	{
-		"abr": "wartribalwear",
-		"price": 417,
-		"category": "Misc",
-		"defname": "VFET_Apparel_TribalWar"
-	},
-	{
-		"abr": "washingmachine",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
-	},
-	{
-		"abr": "wildfat",
-		"price": 4,
-		"category": "Animal products",
-		"defname": "MA_WildFat"
-	},
-	{
-		"abr": "zebrafinch",
-		"price": 167,
-		"category": "Animals",
-		"defname": "ZebraFinch"
-	},
-	{
-		"abr": "zebrafinchegg(fert.)",
-		"price": 17,
-		"category": "Eggs (fert.)",
-		"defname": "EggZebraFinchFertilized"
-	},
-	{
-		"abr": "zebrafinchegg(unfert.)",
-		"price": 17,
-		"category": "Eggs (unfert.)",
-		"defname": "EggZebraFinchUnfertilized"
-	},
-	{
-		"abr": "gravhands",
-		"price": 6000,
-		"category": "Prosthetic",
-		"defname": "GravHands"
-	},
-	{
-		"abr": "gravcorestomach",
-		"price": 3833,
-		"category": "Prosthetic",
-		"defname": "GravStomach"
-	},
-	{
-		"abr": "iedgravcoretrap",
-		"price": 1667,
-		"category": "Security",
-		"defname": "TrapIED_Gravcore"
-	},
-	{
-		"abr": "autopsytable",
-		"price": 400,
-		"category": "Production",
-		"defname": "TableAutopsy"
-	},
+	}
 	],
-	"total": 2829
+	"total": 2751
 }
