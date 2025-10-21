@@ -1222,5 +1222,29 @@
     "name": "Zombieland 1.6",
     "steamId": "928376710",
     "version": "4.4.7.0"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Alsariul",
+    "name": "GravTech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Blazen_Rock, xrushha, legodude17, amnabi and Kitsune",
+    "name": "Heavy Melee Weapons (Continued)",
+    "steamId": "2932628115",
+    "version": "1.6.0"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
   }
 ]

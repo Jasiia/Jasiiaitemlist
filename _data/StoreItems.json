@@ -14754,6 +14754,48 @@
 		"category": "Eggs (fert.)",
 		"defname": "EggRingneckDoveFertilized"
 	},
+	{
+		"abr": "advancedshieldgenerator",
+		"price": 10775,
+		"category": "Misc",
+		"defname": "AdvShip_ShieldGenerator"
+	},
+	{
+		"abr": "asteroidcollector",
+		"price": 5000,
+		"category": "Special",
+		"defname": "AsteroidCollector"
+	},
+	{
+		"abr": "autopsytable",
+		"price": 400,
+		"category": "Production",
+		"defname": "TableAutopsy"
+	},
+	{
+		"abr": "avrm30",
+		"price": 2267,
+		"category": "Ranged weapons",
+		"defname": "FOP_AVR_A"
+	},
+	{
+		"abr": "avrm60",
+		"price": 2867,
+		"category": "Ranged weapons",
+		"defname": "FOP_AVR_MB"
+	},
+	{
+		"abr": "avrm90",
+		"price": 2833,
+		"category": "Ranged weapons",
+		"defname": "PF_AVR_AR"
+	},
+	{
+		"abr": "beamrepeaterturret",
+		"price": 2500,
+		"category": "Security",
+		"defname": "Turret_BeamRepeater"
+	}
 	],
-	"total": 2620
+	"total": 2627
 }
