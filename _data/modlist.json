@@ -15,7 +15,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
+    "version": "1.6+805eb02414feb54a653a48ffb2a3146aa4e469ed"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -34,12 +34,6 @@
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool (1.6 Temp)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "KittahKhan",
@@ -316,6 +310,12 @@
     "name": "Harvest Organs Post Mortem Continued",
     "steamId": "1204502413",
     "version": "4.1.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -903,19 +903,13 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9386.30450"
+    "version": "1.0.9416.33549"
   },
   {
     "author": "Nikolas Makarov",
     "name": "Crimson - Berry Desserts",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Pyrce",
-    "name": "Dire Raids (Continued)",
-    "steamId": "3259909708",
-    "version": "1.6.0"
   },
   {
     "author": "Nina.Goblin",
@@ -1023,7 +1017,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "",
-    "version": "1.0.0+068c6513655e6967ed2e593d3f976cb920e336a0"
+    "version": "1.0.0+039d067e32f24f91e6520e43b628a17d944b6507"
   },
   {
     "author": "5tratz",
@@ -1215,7 +1209,7 @@
     "author": "Laredson",
     "name": "Harvest And Haul",
     "steamId": "3563060965",
-    "version": "1.0.0.0"
+    "version": "0.0.0.0"
   },
   {
     "author": "KiwiKOKS",
@@ -1245,7 +1239,7 @@
     "author": "llunak",
     "name": "Water Is Cold (fork)",
     "steamId": "3535154222",
-    "version": "1.0.0+c8ae791d34a37f3198f36ceda89ee3c7575d1f29"
+    "version": "1.0.0+010c6648758cd6e3ac7d19fd45c9179fc4b9f3e2"
   },
   {
     "author": "void",
@@ -1269,7 +1263,7 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -1293,12 +1287,36 @@
     "author": "MrHydralisk",
     "name": "Layered Atmosphere and Orbit",
     "steamId": "3568552579",
-    "version": "1.0.0.2"
+    "version": "2.5.0.1"
   },
   {
     "author": "Samael Gray",
     "name": "Paramount Combat Armaments",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "jptrrs",
+    "name": "[JPT] Soft Warm Beds (Continued)",
+    "steamId": "3006469889",
+    "version": "1.6.4"
+  },
+  {
+    "author": "kathanon",
+    "name": "Research Queue",
+    "steamId": "3570625182",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Tug",
+    "name": "Terraforming Devices",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "3560458000",
+    "version": "1.6.0"
   }
 ]
