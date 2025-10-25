@@ -12,6 +12,36 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -138,6 +168,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -226,36 +262,6 @@
     "name": "Achtung!",
     "steamId": "730936602",
     "version": "4.1.8.0"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.6.0"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
-    "steamId": "3239583412",
-    "version": "1.6.0.1"
   },
   {
     "author": "1trickPwnyta",
@@ -412,12 +418,6 @@
     "name": "Cat's Boots and Gloves",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Moxie, konstantynopolitaneczka and CRESCENT",
-    "name": "Choose the Lesson",
-    "steamId": "3572338600",
-    "version": "1.0.0"
   },
   {
     "author": "在戴森球上打螺丝",
@@ -921,7 +921,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "",
-    "version": "1.0.0+039d067e32f24f91e6520e43b628a17d944b6507"
+    "version": "1.0.0+0a3c4a8fe566a30a921975689df79ba1e9e23af5"
   },
   {
     "author": "Sarg Bjornson",
@@ -952,6 +952,12 @@
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
     "version": "1.0.9367.38441"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "Defi",
@@ -1054,12 +1060,6 @@
     "name": "Vanilla Base Generation Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -1218,22 +1218,16 @@
     "version": "1.6.0"
   },
   {
-    "author": "Andreas Pardeike and Louize",
-    "name": "Zombieland 1.6",
-    "steamId": "928376710",
-    "version": "4.4.7.0"
+    "author": "Alsariul",
+    "name": "GravTech",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Carny Senpai",
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Alsariul",
-    "name": "GravTech",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Blazen_Rock, xrushha, legodude17, amnabi and Kitsune",
@@ -1246,5 +1240,29 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
+  },
+  {
+    "author": "ferny",
+    "name": "Progression: Education",
+    "steamId": "3590863552",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pphhyy and Gideon",
+    "name": "Sanguinary Animals Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "Andreas Pardeike and Louize",
+    "name": "Zombieland 1.6",
+    "steamId": "928376710",
+    "version": "4.4.7.0"
   }
 ]
