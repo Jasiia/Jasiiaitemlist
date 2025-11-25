@@ -3,43 +3,13 @@
     "author": "Zetrith and jikulopo",
     "name": "Prepatcher",
     "steamId": "3563469557",
-    "version": "1.1.0+ad2f0475f4d42dc6af23e3cc5c9926e8d28be629"
+    "version": "1.2.0+3796d67afbdbfcce0c81083c9a896c0ca835c68c"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
     "version": "2.4.2.0"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.6.0"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
-    "steamId": "3239583412",
-    "version": "1.6.0.1"
   },
   {
     "author": "Dubwise",
@@ -120,6 +90,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.9334.21391"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded",
     "steamId": null,
@@ -160,12 +136,6 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.9.1"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Erin",
-    "name": "Vanilla Races Expanded - Sanguophage",
-    "steamId": "2963116383",
-    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson",
@@ -423,7 +393,7 @@
     "author": "在戴森球上打螺丝",
     "name": "Choose Where To Land",
     "steamId": "3537970831",
-    "version": "1.0.0+12defbe7dbf65bbbb1f6304c6fc844e41a5288c9"
+    "version": "1.0.0+0d2c58c1c8f888929b211bdabebe083867bffc95"
   },
   {
     "author": "Leo39994",
@@ -920,8 +890,8 @@
   {
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
-    "steamId": "",
-    "version": "1.0.0+0a3c4a8fe566a30a921975689df79ba1e9e23af5"
+    "steamId": "3526251680",
+    "version": "1.0.0+99b3e657506294bd9ef31b9e3981b31005f289b0"
   },
   {
     "author": "Sarg Bjornson",
@@ -1242,27 +1212,81 @@
     "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
   },
   {
-    "author": "ferny",
-    "name": "Progression: Education",
-    "steamId": "3590863552",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "pphhyy and Gideon",
-    "name": "Sanguinary Animals Reborn",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.6.3.3"
   },
   {
-    "author": "Andreas Pardeike and Louize",
-    "name": "Zombieland 1.6",
-    "steamId": "928376710",
-    "version": "4.4.7.0"
+    "author": "HMC",
+    "name": "[HMC]Wall Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids (Continued)",
+    "steamId": "3259909708",
+    "version": "1.6.0"
+  },
+  {
+    "author": "FEB",
+    "name": "FEB's Biopunk Livestock",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Poured Concrete",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Removable Mt.Rock Roof Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LingLuo",
+    "name": "Customize Room Role",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dogard",
+    "name": "Butcher Spoiling First",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
   }
 ]

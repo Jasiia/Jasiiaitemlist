@@ -22779,7 +22779,7 @@
     "Mod": "Vanilla Plants Expanded - More Plants",
     "KarmaType": null
   },
-  "VRE_PsychofluidWell": {
+  "HMC_Wall_Vitals_Monitor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22796,10 +22796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemogenTap": {
+  "HMC_Wall_TV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22816,10 +22816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemogenDrain": {
+  "HMC_Wall_Tool_Cabinet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22836,10 +22836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_InvocationMatrix": {
+  "HMC_Wall_Multi_Analyzer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22856,10 +22856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemodynamicAccelerator": {
+  "HMC_Wall_Comms_Console": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22876,10 +22876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemogenSolidifier": {
+  "HMC_Wall_Rocket_Turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22896,10 +22896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_SmallHemogenAmplifier": {
+  "HMC_Wall_OrbitalTradeBeacon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22916,10 +22916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_SmallHemopump": {
+  "HMC_Wall_Minigun_Turret_Ship": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22936,10 +22936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemogenPack_Animal": {
+  "HMC_Wall_Minigun_Turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22949,17 +22949,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemogenPack_Corpse": {
+  "HMC_Wall_MachineCannon_Turret_Ship": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22969,17 +22969,17 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "VRE_HemogenPack_Sanguophage": {
+  "HMC_Wall_LightMachinegun_Turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22989,14 +22989,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Races Expanded - Sanguophage",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
   "Bed_StoneSlab": {
@@ -52679,7 +52679,7 @@
     "Mod": "Heavy Melee Weapons (Continued)",
     "KarmaType": null
   },
-  "PE_TribalBell": {
+  "HMC_Wall_Foam_Turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52696,10 +52696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "PE_SchoolBell": {
+  "HMC_Wall_FireShotgun_Turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52716,10 +52716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "PE_ElectricSchoolBell": {
+  "HMC_Wall_Emp_Turret_Ship": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52736,10 +52736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "PE_LessonStone": {
+  "HMC_Wall_Emp_Turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52756,10 +52756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "PE_LargeBlackboard": {
+  "HMC_Tritium_Wall_Lamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52776,10 +52776,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "[HMC]Wall Furniture",
     "KarmaType": null
   },
-  "PE_Whiteboard": {
+  "GravBeamCannon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "GravTech",
+    "KarmaType": null
+  },
+  "RoughGravlitePanel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52796,10 +52816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "GravTech",
     "KarmaType": null
   },
-  "PE_LargeWhiteboard": {
+  "GravIncreasePylon_GT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52816,10 +52836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "GravTech",
     "KarmaType": null
   },
-  "PE_HoloEducatorScreen": {
+  "GravDecreasePylon_GT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52836,10 +52856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "GravTech",
     "KarmaType": null
   },
-  "PE_LargeHoloEducatorScreen": {
+  "HeaterPylon_GT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52856,10 +52876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "GravTech",
     "KarmaType": null
   },
-  "RoyalCrib": {
+  "CoolerPylon_GT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52876,10 +52896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "GravTech",
     "KarmaType": null
   },
-  "TribalCrib": {
+  "ShieldPylon_GT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52896,10 +52916,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "GravTech",
     "KarmaType": null
   },
-  "PE_StoneSchoolDesk": {
+  "MA_DuskSpear": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Sivatherium": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52916,10 +52956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "PE_TouchscreenSchoolDesk": {
+  "MA_SimbakubAlpha": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52936,10 +52976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "PE_Projector": {
+  "MA_Simbakub": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52956,10 +52996,90 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Progression: Education",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "EggBloodScarabFertilized": {
+  "MA_PlastemmothAlpha": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Leather_SimbakubAlpha": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Leather_Simbakub": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_Leather_Sivatherium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Mythic Ages: Megafauna Bestiary",
+    "KarmaType": null
+  },
+  "MA_BirdMeat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52976,10 +53096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "EggBloodScarabUnfertilized": {
+  "MA_SivatheriumMeat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -52996,130 +53116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "pphhyy_BloodScarab": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
-    "KarmaType": null
-  },
-  "pphhyy_Leather_SanguineDeer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
-    "KarmaType": null
-  },
-  "pphhyy_Wool_SanguineDeer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
-    "KarmaType": null
-  },
-  "pphhyy_SanguineDeer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
-    "KarmaType": null
-  },
-  "pphhyy_Leather_Vargulf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
-    "KarmaType": null
-  },
-  "pphhyy_Vargulf": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
-    "KarmaType": null
-  },
-  "pphhyy_MealLeSangEggsFried": {
+  "MA_SivaDustIvory": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53136,27 +53136,27 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
-  "pphhyy_LaSangKibble": {
+  "MA_SivatheriumHorn": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Sanguinary Animals Reborn",
+    "Mod": "Mythic Ages: Megafauna Bestiary",
     "KarmaType": null
   },
   "AM_Apparel_ArmorHelmetMechlordHelmet_Prestige": {
@@ -53319,27 +53319,7 @@
     "Mod": "GravTech",
     "KarmaType": null
   },
-  "Chainsaw": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Zombieland 1.6",
-    "KarmaType": null
-  },
-  "ZombieExtract": {
+  "FEB_Leadbelly": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53356,10 +53336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "ZombieSerumSimple": {
+  "FEB_Toxoga": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53376,10 +53356,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie10Serum": {
+  "FEB_Apothemycin": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "FEB's Biopunk Livestock",
+    "KarmaType": null
+  },
+  "FEB_ferrowool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53396,10 +53396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie20Serum": {
+  "FEB_Toxglass": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53416,10 +53416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie30Serum": {
+  "FEB_Apotheca": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53436,10 +53436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie40Serum": {
+  "FEB_Cottonfoot": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53456,10 +53456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie50Serum": {
+  "FEB_CryoToad": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53476,10 +53476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie60Serum": {
+  "FEB_Ferrohorn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53496,10 +53496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie70Serum": {
+  "FEB_Gutterhog": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53516,10 +53516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "FEB's Biopunk Livestock",
     "KarmaType": null
   },
-  "Zombie80Serum": {
+  "PC_ConcreteBasic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53536,10 +53536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "Poured Concrete",
     "KarmaType": null
   },
-  "Zombie90Serum": {
+  "PC_ConcreteBasicDried": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53556,10 +53556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "Poured Concrete",
     "KarmaType": null
   },
-  "Zombie100Serum": {
+  "PC_ConcreteBasicCured": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -53576,7 +53576,127 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Zombieland 1.6",
+    "Mod": "Poured Concrete",
+    "KarmaType": null
+  },
+  "PC_ConcreteReinforced": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Poured Concrete",
+    "KarmaType": null
+  },
+  "PC_ConcreteReinforcedDried": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Poured Concrete",
+    "KarmaType": null
+  },
+  "PC_ConcreteReinforcedCured": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Poured Concrete",
+    "KarmaType": null
+  },
+  "PC_ConcreteAdvanced": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Poured Concrete",
+    "KarmaType": null
+  },
+  "PC_ConcreteAdvancedDried": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Poured Concrete",
+    "KarmaType": null
+  },
+  "PC_ConcreteAdvancedCured": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Poured Concrete",
     "KarmaType": null
   }
 }
