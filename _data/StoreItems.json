@@ -15887,7 +15887,259 @@
 		"price": 583,
 		"category": "Animals",
 		"defname": "FEB_Ferrohorn"
-	}
+	},
+	{
+		"abr": "ferrowool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "FEB_ferrowool"
+	},
+	{
+		"abr": "gravbeamcannon",
+		"price": 5833,
+		"category": "Ranged weapons",
+		"defname": "GravBeamCannon"
+	},
+	{
+		"abr": "gravitydecreasepylon",
+		"price": 2167,
+		"category": "Misc",
+		"defname": "GravDecreasePylon_GT"
+	},
+	{
+		"abr": "gravityincreasepylon",
+		"price": 2167,
+		"category": "Misc",
+		"defname": "GravIncreasePylon_GT"
+	},
+	{
+		"abr": "gutterhog",
+		"price": 583,
+		"category": "Animals",
+		"defname": "FEB_Gutterhog"
+	},
+	{
+		"abr": "heaterpylon",
+		"price": 2167,
+		"category": "Temperature",
+		"defname": "HeaterPylon_GT"
+	},
+	{
+		"abr": "leadbellycow",
+		"price": 917,
+		"category": "Animals",
+		"defname": "FEB_Leadbelly"
+	},
+	{
+		"abr": "navalwallempturret",
+		"price": 3875,
+		"category": "Security",
+		"defname": "HMC_Wall_Emp_Turret_Ship"
+	},
+	{
+		"abr": "navalwallmachinecannonturret",
+		"price": 4608,
+		"category": "Security",
+		"defname": "HMC_Wall_MachineCannon_Turret_Ship"
+	},
+	{
+		"abr": "navalwallminigunturret",
+		"price": 3458,
+		"category": "Security",
+		"defname": "HMC_Wall_Minigun_Turret_Ship"
+	},
+	{
+		"abr": "pfsanimalbed",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "PFS_AnimalBed"
+	},
+	{
+		"abr": "pfsarmchaira",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "PFS_Armchair"
+	},
+	{
+		"abr": "pfsarmchairb",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "PFS_ArmchairB"
+	},
+	{
+		"abr": "pfsbed",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "PFS_Bed"
+	},
+	{
+		"abr": "pfsbilliardstable",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "PFS_BilliardsTable"
+	},
+	{
+		"abr": "pfsblueglass",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareD"
+	},
+	{
+		"abr": "pfscouch",
+		"price": 817,
+		"category": "Furniture",
+		"defname": "PFS_Couch"
+	},
+	{
+		"abr": "pfscrib",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "PFS_Crib"
+	},
+	{
+		"abr": "pfscubelight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "PFS_CubeLight"
+	},
+	{
+		"abr": "pfsdiningchair",
+		"price": 190,
+		"category": "Furniture",
+		"defname": "PFS_DiningChair"
+	},
+	{
+		"abr": "pfsdisplaypod",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "PFS_DisplayPod"
+	},
+	{
+		"abr": "pfsdoorslope",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DoorSlope"
+	},
+	{
+		"abr": "pfsdoorframea",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "PFS_DoorFrameA"
+	},
+	{
+		"abr": "pfsdoublebed",
+		"price": 278,
+		"category": "Furniture",
+		"defname": "PFS_DoubleBed"
+	},
+	{
+		"abr": "pfsdressera",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "PFS_DresserA"
+	},
+	{
+		"abr": "pfsdresserb",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "PFS_DresserB"
+	},
+	{
+		"abr": "pfsendtable",
+		"price": 101,
+		"category": "Furniture",
+		"defname": "PFS_EndTable"
+	},
+	{
+		"abr": "pfsfirefoampopper",
+		"price": 300,
+		"category": "Misc",
+		"defname": "PFS_FirefoamPopper"
+	},
+	{
+		"abr": "pfsfloorlinelight",
+		"price": 14,
+		"category": "Furniture",
+		"defname": "PFS_FloorlineLight"
+	},
+	{
+		"abr": "pfsfruitbowl",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareB"
+	},
+	{
+		"abr": "pfsheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "PFS_Heater"
+	},
+	{
+		"abr": "pfshexatable(2x2)",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "PFS_HexaTable"
+	},
+	{
+		"abr": "pfshologlassdesktop",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "PFS_HoloGlassDesktop"
+	},
+	{
+		"abr": "pfshologlasspanel",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "PFS_HoloGlassPanel"
+	},
+	{
+		"abr": "pfsmetalteddybear",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_MetalTeddyBear"
+	},
+	{
+		"abr": "pfsminihologlass",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_MiniHoloGlass"
+	},
+	{
+		"abr": "pfsobsidianfigurine",
+		"price": 25,
+		"category": "Furniture",
+		"defname": "PFS_ObsidianFigurine"
+	},
+	{
+		"abr": "pfspitcher",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "PFS_DecoTablewareA"
+	},
+	{
+		"abr": "pfspokertable",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "PFS_PokerTable"
+	},
+	{
+		"abr": "pfsshelf",
+		"price": 66,
+		"category": "Furniture",
+		"defname": "PFS_Shelf"
+	},
+	{
+		"abr": "pfssmallshelf",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "PFS_ShelfSmall"
+	},
+	{
+		"abr": "pfsstoola",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PFS_Stool"
+	},
 	],
-	"total": 2685
+	"total": 2727
 }
