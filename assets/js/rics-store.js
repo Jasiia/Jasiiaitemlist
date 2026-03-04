@@ -260,23 +260,39 @@ class RICSStore {
         }).join('');
     }
 
-    renderTraits() { /* fixed layout - description in first column */ 
+    renderTraits() {
         const tbody = document.getElementById('traits-tbody');
         const traits = this.filteredData.traits;
-        if (traits.length === 0) { tbody.innerHTML = '<tr><td colspan="3" style="text-align:center;padding:40px;">No traits found</td></tr>'; return; }
+        if (traits.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center;padding:40px;">No traits found</td></tr>';
+            return;
+        }
+    
         tbody.innerHTML = traits.map(trait => {
             const coloredName = this.convertRimWorldColors(trait.name);
-            return `<tr>
+            return `
+            <tr>
                 <td>
                     <div class="item-name">${coloredName}</div>
-                    <span class="metadata">${this.escapeHtml(trait.defName)}<br>From ${this.escapeHtml(trait.modSource)}${trait.bypassLimit ? '<br><span class="usage">Bypasses Limit</span>' : ''}</span>
+                    <span class="metadata">
+                        ${this.escapeHtml(trait.defName)}
+                        <br>From ${this.escapeHtml(trait.modSource)}
+                        ${trait.bypassLimit ? '<br><span class="usage">Bypasses Limit</span>' : ''}
+                    </span>
+                </td>
+                <td class="no-wrap">
+                    ${trait.canAdd ? `<strong>${trait.addPrice}</strong>` : '<span class="metadata">Cannot Add</span>'}
+                </td>
+                <td class="no-wrap">
+                    ${trait.canRemove ? `<strong>${trait.removePrice}</strong>` : '<span class="metadata">Cannot Remove</span>'}
+                </td>
+                <td>
                     <div class="trait-description">${this.convertRimWorldColors(trait.description)}</div>
                     ${this.renderTraitStats(trait)}
                     ${this.renderTraitConflicts(trait)}
                 </td>
-                <td class="no-wrap">${trait.canAdd ? `<strong>${trait.addPrice}</strong>` : '<span class="metadata">Cannot Add</span>'}</td>
-                <td class="no-wrap">${trait.canRemove ? `<strong>${trait.removePrice}</strong>` : '<span class="metadata">Cannot Remove</span>'}</td>
-            </tr>`;
+            </tr>
+            `;
         }).join('');
     }
 
