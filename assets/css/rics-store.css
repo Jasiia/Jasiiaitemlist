@@ -187,6 +187,14 @@ header h1 {
     color: white;
 }
 
+.steam-link {
+    color: #1b88e9;
+    text-decoration: underline;
+}
+.steam-link:hover {
+    color: #66c0f4;
+}
+
 /* Custom scrollbar for webkit browsers */
 ::-webkit-scrollbar {
     width: 10px;
