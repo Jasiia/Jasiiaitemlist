@@ -51,7 +51,7 @@ A GitHub Pages site for displaying RICS mod purchase lists.
 #### Using Git (advanced):
 
 git pull upstream main
-# Resolve any conflicts
+Resolve any conflicts
 git push origin main
 
 #### Optional: Manual File Update (when only a few files changed)
