@@ -1051,7 +1051,7 @@
   },
   "PsychicSensitivity_2": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically Hypersensitive",
+    "Name": "Psychically hypersensitive",
     "Degree": 2,
     "Description": "[PAWN_name]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena.",
     "Stats": [
@@ -1072,7 +1072,7 @@
   },
   "PsychicSensitivity_1": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically Sensitive",
+    "Name": "Psychically sensitive",
     "Degree": 1,
     "Description": "[PAWN_name]'s mind is unusually sensitive to psychic phenomena.",
     "Stats": [
@@ -1093,7 +1093,7 @@
   },
   "PsychicSensitivity_-1": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically Dull",
+    "Name": "Psychically dull",
     "Degree": -1,
     "Description": "[PAWN_name]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena.",
     "Stats": [
@@ -1114,7 +1114,7 @@
   },
   "PsychicSensitivity_-2": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically Deaf",
+    "Name": "Psychically deaf",
     "Degree": -2,
     "Description": "[PAWN_name]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena.",
     "Stats": [
@@ -1242,7 +1242,7 @@
   },
   "Beauty_-2": {
     "DefName": "Beauty",
-    "Name": "Staggeringly Ugly",
+    "Name": "Staggeringly ugly",
     "Degree": -2,
     "Description": "[PAWN_name] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.",
     "Stats": [
