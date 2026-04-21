@@ -4750,7 +4750,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Medieval Overhaul",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "DankPyon_Veteran_0": {
@@ -4780,7 +4780,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Medieval Overhaul",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Addie_LastDuelistTrait_0": {
@@ -4803,7 +4803,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Medieval Overhaul: House Van Illa",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "FL_Reserved_Trait_0": {
@@ -4822,7 +4822,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Foxian League",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "FL_Loyal_Trait_0": {
@@ -4841,7 +4841,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Foxian League",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "FL_NaturalPsySensitive_Trait_0": {
@@ -4864,7 +4864,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Foxian League",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "AIRobot_BaseTrait_1": {
