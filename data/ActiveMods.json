@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-04-21T17:43:42.1363575Z",
-  "totalActiveMods": 321,
+  "exportedAt": "2026-05-21T03:07:18.1112126Z",
+  "totalActiveMods": 342,
   "mods": [
     {
       "author": "Captolamia",
@@ -9,9 +9,21 @@
       "version": null
     },
     {
+      "author": "Crimson",
+      "name": "[CF] Anomaly Upscaled",
+      "steamId": "3239664028",
+      "version": null
+    },
+    {
       "author": "FrozenSnowFox",
       "name": "[FSF] Better Ancient Complex Loot",
       "steamId": "2559244124",
+      "version": null
+    },
+    {
+      "author": "FrozenSnowFox",
+      "name": "[FSF] Better Anomaly Loot",
+      "steamId": "3229997523",
       "version": null
     },
     {
@@ -24,6 +36,12 @@
       "author": "FrozenSnowFox",
       "name": "[FSF] Filth Vanishes With Rain And Time",
       "steamId": "1508341791",
+      "version": null
+    },
+    {
+      "author": "Teiwaz",
+      "name": "[GTG]Anomaly Orbital Trader",
+      "steamId": "3222612537",
       "version": null
     },
     {
@@ -45,9 +63,9 @@
       "version": null
     },
     {
-      "author": "Lusty",
-      "name": "[LM] Cowboy Hats Bloatended",
-      "steamId": "3688414599",
+      "author": "Oganesson",
+      "name": "[Og] Recruit Guest",
+      "steamId": "3719628649",
       "version": null
     },
     {
@@ -60,12 +78,6 @@
       "author": "seobongzu",
       "name": "[sbz] Fridge",
       "steamId": "3486264784",
-      "version": null
-    },
-    {
-      "author": "seobongzu",
-      "name": "[sbz] Misc. Robots retexture",
-      "steamId": "2638336416",
       "version": null
     },
     {
@@ -90,7 +102,7 @@
       "author": "1trickPwnyta",
       "name": "1trickPwnyta's Odyssey Patch",
       "steamId": "3578444636",
-      "version": "1.3.4"
+      "version": "1.4.1"
     },
     {
       "author": "Andreas Pardeike",
@@ -135,6 +147,12 @@
       "version": null
     },
     {
+      "author": "Fluffy",
+      "name": "Animal Tab (Continued 1.6)",
+      "steamId": "3575480305",
+      "version": null
+    },
+    {
       "author": "Luved",
       "name": "Animal Traits System",
       "steamId": "3652630316",
@@ -153,6 +171,24 @@
       "version": null
     },
     {
+      "author": "Alsariul",
+      "name": "Anomaly for Gravship",
+      "steamId": "3558784993",
+      "version": null
+    },
+    {
+      "author": "22",
+      "name": "Anomaly Portal",
+      "steamId": "3259426560",
+      "version": null
+    },
+    {
+      "author": "Zoarak963",
+      "name": "Anomaly Research Asteroid",
+      "steamId": "3527726648",
+      "version": null
+    },
+    {
       "author": "Willow,  Erin, , Taranchuk",
       "name": "Anthrosonae",
       "steamId": "2902258418",
@@ -168,12 +204,6 @@
       "author": "Defi",
       "name": "Auto-Cut Blight - 1.6",
       "steamId": "3520167264",
-      "version": null
-    },
-    {
-      "author": "Ghostie",
-      "name": "Baby Seal",
-      "steamId": "3559156039",
       "version": null
     },
     {
@@ -238,6 +268,18 @@
     },
     {
       "author": "The Biomes Mod Team",
+      "name": "Biomes! Fossils",
+      "steamId": "3100958580",
+      "version": null
+    },
+    {
+      "author": "The Biomes Mod Team",
+      "name": "Biomes! Framework",
+      "steamId": "3709492514",
+      "version": null
+    },
+    {
+      "author": "The Biomes Mod Team",
       "name": "Biomes! Prehistoric",
       "steamId": "2860715703",
       "version": null
@@ -270,19 +312,7 @@
       "author": "Andreas Pardeike",
       "name": "Camera+",
       "steamId": "867467808",
-      "version": "3.3.2.0"
-    },
-    {
-      "author": "AobaKuma OttersHoldHands iforgotmysocks",
-      "name": "Camping Tent",
-      "steamId": "2407128339",
-      "version": null
-    },
-    {
-      "author": "iforgotmysocks",
-      "name": "Caravan Adventures",
-      "steamId": "2558957509",
-      "version": null
+      "version": "3.4.3.0"
     },
     {
       "author": "Bean",
@@ -363,9 +393,9 @@
       "version": null
     },
     {
-      "author": "HaiLuan",
-      "name": "Custom Quest Framework",
-      "steamId": "2978572782",
+      "author": "Ghostie",
+      "name": "Cute Boy Hairstyles",
+      "steamId": "3538207880",
       "version": null
     },
     {
@@ -399,6 +429,18 @@
       "version": null
     },
     {
+      "author": "Dalgamor",
+      "name": "DLG.Mutations behind",
+      "steamId": "3637525997",
+      "version": null
+    },
+    {
+      "author": "Xercaine",
+      "name": "Do Recreation When Idle",
+      "steamId": "3368214339",
+      "version": null
+    },
+    {
       "author": "Toxic Yui",
       "name": "Don't Put Yourself in Danger!",
       "steamId": "3562094770",
@@ -408,12 +450,6 @@
       "author": "dracoix",
       "name": "Door Mat",
       "steamId": "1505423207",
-      "version": null
-    },
-    {
-      "author": "Onyxae",
-      "name": "Dragons Descent",
-      "steamId": "2026992161",
       "version": null
     },
     {
@@ -427,12 +463,6 @@
       "name": "DragSelect",
       "steamId": "2599942235",
       "version": "1.6.0.2"
-    },
-    {
-      "author": "Gerrymon",
-      "name": "Dromas",
-      "steamId": "3665393436",
-      "version": null
     },
     {
       "author": "Meme Goddess",
@@ -483,15 +513,21 @@
       "version": null
     },
     {
-      "author": "Erin,  Sarg Bjornson",
-      "name": "Erin's Decorations",
-      "steamId": "2463358089",
+      "author": "Erin",
+      "name": "Erin's Fluffy Fauna",
+      "steamId": "3521909777",
       "version": null
     },
     {
       "author": "Erin",
-      "name": "Erin's Fluffy Fauna",
-      "steamId": "3521909777",
+      "name": "Erin's Hairstyles - Redux",
+      "steamId": "2361911135",
+      "version": null
+    },
+    {
+      "author": "Erin",
+      "name": "Erin's Hairstyles 2",
+      "steamId": "2849477421",
       "version": null
     },
     {
@@ -504,12 +540,6 @@
       "author": "Victorique,  Aurani,  Tarojun",
       "name": "Expanded Prosthetics and Organ Engineering - Forked",
       "steamId": "1949064302",
-      "version": null
-    },
-    {
-      "author": "IcyCheeseCake",
-      "name": "Faction - Orbiters",
-      "steamId": "3698816189",
       "version": null
     },
     {
@@ -547,6 +577,12 @@
       "name": "Fishing Is Fun",
       "steamId": "3541736220",
       "version": "2025.8.3"
+    },
+    {
+      "author": "DemobRoka",
+      "name": "Fleshbeast Colony",
+      "steamId": "3707199661",
+      "version": null
     },
     {
       "author": "Dyrewulfe",
@@ -603,6 +639,12 @@
       "version": null
     },
     {
+      "author": "Teiwaz",
+      "name": "GTG Trader Core",
+      "steamId": "3682209120",
+      "version": null
+    },
+    {
       "author": "Botch_Job",
       "name": "Hard Times: Hair and Beards",
       "steamId": "3092175321",
@@ -645,12 +687,6 @@
       "version": null
     },
     {
-      "author": "hazN",
-      "name": "Hunting Traps",
-      "steamId": "3219487356",
-      "version": null
-    },
-    {
       "author": "Ludeon Studios",
       "name": "Ideology",
       "steamId": null,
@@ -675,16 +711,10 @@
       "version": "1.6.0"
     },
     {
-      "author": "Keetie Carluke",
-      "name": "KC's Dwarven Armour",
-      "steamId": "3564832394",
-      "version": "0.1"
-    },
-    {
       "author": "keyz182",
       "name": "Keyz' Allow Utilities",
       "steamId": "3524716849",
-      "version": "1.2.1"
+      "version": "1.2.4"
     },
     {
       "author": "Goblins4Lyfe",
@@ -741,6 +771,18 @@
       "version": null
     },
     {
+      "author": "GoGaTio",
+      "name": "Mechanoid Upgrades",
+      "steamId": "3365118555",
+      "version": null
+    },
+    {
+      "author": "GoGaTio",
+      "name": "Mechanoid Upgrades - Anomaly",
+      "steamId": "3375627095",
+      "version": null
+    },
+    {
       "author": "AssassinsBro",
       "name": "Medieval Backstories No HAR",
       "steamId": "3128454510",
@@ -756,12 +798,6 @@
       "author": "死萌",
       "name": "Medieval Repair",
       "steamId": "2955709750",
-      "version": null
-    },
-    {
-      "author": "Mewn Goddess",
-      "name": "Medieval Signs",
-      "steamId": "3488857567",
       "version": null
     },
     {
@@ -789,16 +825,10 @@
       "version": null
     },
     {
-      "author": "Haplo",
-      "name": "Misc. Robots",
-      "steamId": "724602224",
-      "version": "1.6.3"
-    },
-    {
-      "author": "cabmoomoo",
-      "name": "Misc. Robots++",
-      "steamId": "3253308913",
-      "version": null
+      "author": "AzureMine",
+      "name": "Mineuchi(Mercy Strike)",
+      "steamId": "3719111173",
+      "version": "1.1.0"
     },
     {
       "author": "Haplo",
@@ -837,6 +867,12 @@
       "version": "1.6.4"
     },
     {
+      "author": "arl85",
+      "name": "More filters for animals' pen",
+      "steamId": "2558978295",
+      "version": null
+    },
+    {
       "author": "4loris4",
       "name": "More Linkables",
       "steamId": "1103809207",
@@ -846,6 +882,12 @@
       "author": "Sinnamon",
       "name": "More Ritual Rewards",
       "steamId": "2582489076",
+      "version": null
+    },
+    {
+      "author": "Toastyman",
+      "name": "More Ritual Seats",
+      "steamId": "3411913071",
       "version": null
     },
     {
@@ -891,6 +933,12 @@
       "version": "1.1.5"
     },
     {
+      "author": "GoGaTio",
+      "name": "New Anomaly Threats",
+      "steamId": "3274840013",
+      "version": null
+    },
+    {
       "author": "Andromeda",
       "name": "Nice Bill Tab",
       "steamId": "3520130671",
@@ -906,6 +954,12 @@
       "author": "Andromeda",
       "name": "Nice Plants Menu",
       "steamId": "3685058533",
+      "version": null
+    },
+    {
+      "author": "Andromeda",
+      "name": "Nice Short Female Hairs",
+      "steamId": "3316363751",
       "version": null
     },
     {
@@ -981,9 +1035,21 @@
       "version": null
     },
     {
+      "author": "rabiosus",
+      "name": "PawnRenderExport",
+      "steamId": "3644533685",
+      "version": null
+    },
+    {
       "author": "Arkymn",
       "name": "Performance - Slower Pawn Tick Rate",
       "steamId": "3524116050",
+      "version": null
+    },
+    {
+      "author": "Side1iner",
+      "name": "Personality Plus",
+      "steamId": "3533950499",
       "version": null
     },
     {
@@ -997,6 +1063,12 @@
       "name": "Planning Extended",
       "steamId": "2877392159",
       "version": "1.16.0"
+    },
+    {
+      "author": "Peppsen",
+      "name": "P-Music",
+      "steamId": "725130005",
+      "version": null
     },
     {
       "author": "Botch_Job",
@@ -1015,6 +1087,24 @@
       "name": "Priority Treatment Ressurected",
       "steamId": "3009738919",
       "version": null
+    },
+    {
+      "author": "iamrespawn",
+      "name": "Prosthetic No Missing Body Parts (Continued)",
+      "steamId": "2739055353",
+      "version": "1.6.1"
+    },
+    {
+      "author": "ghastlyskull",
+      "name": "Protocol Anomaly: Syndicate",
+      "steamId": "3561799004",
+      "version": null
+    },
+    {
+      "author": "HyouSol",
+      "name": "Psychic Emanator - Improvements",
+      "steamId": "3718099460",
+      "version": "Release 1.0"
     },
     {
       "author": "DawnsGlow",
@@ -1053,6 +1143,12 @@
       "version": null
     },
     {
+      "author": "StockSounds",
+      "name": "Reese's Anomaly Genes",
+      "steamId": "3434828984",
+      "version": null
+    },
+    {
       "author": "Helixien",
       "name": "ReGrowth 2",
       "steamId": "2260097569",
@@ -1080,6 +1176,12 @@
       "author": "ShepirotGamer",
       "name": "Removed radius for Anima Trees",
       "steamId": "3090859164",
+      "version": null
+    },
+    {
+      "author": "Uuugggg",
+      "name": "Replace Stuff - Continued",
+      "steamId": "3526354009",
       "version": null
     },
     {
@@ -1113,12 +1215,6 @@
       "version": null
     },
     {
-      "author": "Cabbage",
-      "name": "RimCities",
-      "steamId": "1775170117",
-      "version": null
-    },
-    {
       "author": "Jaxe",
       "name": "RimHUD",
       "steamId": "1508850027",
@@ -1140,6 +1236,18 @@
       "author": "Sierra",
       "name": "RimTraits - Vanilla Trait Colors",
       "steamId": "2244594116",
+      "version": null
+    },
+    {
+      "author": "spijkermenno",
+      "name": "RimTwins (Continued)",
+      "steamId": "3408216965",
+      "version": "1.6.2"
+    },
+    {
+      "author": "TheLastBulletBender",
+      "name": "Rimworld Exploration Mode",
+      "steamId": "2941608795",
       "version": null
     },
     {
@@ -1185,15 +1293,21 @@
       "version": null
     },
     {
-      "author": "RangelX97",
-      "name": "RX97 Medieval Vehicle: Cammel",
-      "steamId": "3040815967",
+      "author": "ScrubDaddy",
+      "name": "ScrubDaddy's Hairstyles",
+      "steamId": "3536769145",
       "version": null
     },
     {
       "author": "BelloDHR",
       "name": "Seamless Doors",
       "steamId": "3694533072",
+      "version": null
+    },
+    {
+      "author": "SunshineyDays",
+      "name": "Simple Blinking Animation",
+      "steamId": "3529626689",
       "version": null
     },
     {
@@ -1231,6 +1345,12 @@
       "name": "Simply More Bridges (Continued)",
       "steamId": "3560458000",
       "version": "1.6.1"
+    },
+    {
+      "author": "ToddEStan",
+      "name": "Simply More Carpet Colors",
+      "steamId": "2584294337",
+      "version": null
     },
     {
       "author": "Haecriver",
@@ -1281,12 +1401,6 @@
       "version": null
     },
     {
-      "author": "Smash Phil,  Neceros,  Shashlichnik (Шашлычник ;р)",
-      "name": "SRTS Expanded (continued)",
-      "steamId": "2938738526",
-      "version": null
-    },
-    {
       "author": "Defi",
       "name": "Stabilize Bleeding",
       "steamId": "3521178066",
@@ -1302,7 +1416,7 @@
       "author": "Scherub",
       "name": "Stonecutting Extended",
       "steamId": "2571676542",
-      "version": "1.12.0"
+      "version": "1.13.0"
     },
     {
       "author": "balistafreak",
@@ -1320,6 +1434,24 @@
       "author": "Bean",
       "name": "Terrors of the Rim",
       "steamId": "2940555518",
+      "version": null
+    },
+    {
+      "author": "Generic Anime Girl,  catdoghorse",
+      "name": "The Vanity Project - Female Anime Hair",
+      "steamId": "3393734237",
+      "version": null
+    },
+    {
+      "author": "Generic Anime Girl,  catdoghorse",
+      "name": "The Vanity Project - Female Hair",
+      "steamId": "3129825640",
+      "version": null
+    },
+    {
+      "author": "Generic Anime Girl,  catdoghorse",
+      "name": "The Vanity Project - Male Hair",
+      "steamId": "3138280237",
       "version": null
     },
     {
@@ -1350,12 +1482,6 @@
       "author": "AUTOMATIC",
       "name": "Trader ships",
       "steamId": "2046222331",
-      "version": null
-    },
-    {
-      "author": "Tad",
-      "name": "Trading Control",
-      "steamId": "2007107588",
       "version": null
     },
     {
@@ -1392,6 +1518,18 @@
       "author": "UNAGI",
       "name": "UNAGI Royalty Apparel",
       "steamId": "3352990362",
+      "version": null
+    },
+    {
+      "author": "UNAGI",
+      "name": "UNAGI_Hair1",
+      "steamId": "3244456989",
+      "version": null
+    },
+    {
+      "author": "UNAGI",
+      "name": "UNAGI_Hair2",
+      "steamId": "3248775397",
       "version": null
     },
     {
@@ -1506,12 +1644,6 @@
       "author": "Oskar Potocki,  LimeTreeSnake,  Kikohi",
       "name": "Vanilla Factions Expanded - Settlers",
       "steamId": "2052918119",
-      "version": null
-    },
-    {
-      "author": "Oskar Potocki,  xrushha,  Taranchuk,  Sarg Bjornson",
-      "name": "Vanilla Factions Expanded - Tribals",
-      "steamId": "3079786283",
       "version": null
     },
     {
@@ -1725,12 +1857,6 @@
       "version": null
     },
     {
-      "author": "legodude17,  Oskar Potocki,  Sarg Bjornson",
-      "name": "Vanilla Skills Expanded",
-      "steamId": "3400246558",
-      "version": null
-    },
-    {
       "author": "Oskar Potocki,  Taranchuk",
       "name": "Vanilla Social Interactions Expanded",
       "steamId": "2439736083",
@@ -1926,7 +2052,7 @@
       "author": "YAYO",
       "name": "Yayo's Combat 3 (Continued)",
       "steamId": "2854006492",
-      "version": "1.6.7"
+      "version": "1.6.9"
     }
   ]
 }

@@ -4889,7 +4889,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Misc. Robots",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   }
 }

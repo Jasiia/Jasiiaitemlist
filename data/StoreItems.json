@@ -2568,7 +2568,7 @@
     "BlocksSandstone": {
       "DefName": "BlocksSandstone",
       "CustomName": "Sandstone blocks",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -2628,7 +2628,7 @@
     "BlocksMarble": {
       "DefName": "BlocksMarble",
       "CustomName": "Marble blocks",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -5682,7 +5682,7 @@
       "Mod": "Anomaly",
       "BasePrice": 85,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "DirtCubeSculpture": {
@@ -5757,7 +5757,7 @@
       "Mod": "Anomaly",
       "BasePrice": 134,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ShardInhibitor": {
@@ -5772,7 +5772,7 @@
       "Mod": "Anomaly",
       "BasePrice": 435,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ProximityDetector": {
@@ -5802,7 +5802,7 @@
       "Mod": "Anomaly",
       "BasePrice": 495,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SleepSuppressor": {
@@ -5817,7 +5817,7 @@
       "Mod": "Anomaly",
       "BasePrice": 545,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Electroharvester": {
@@ -5832,7 +5832,7 @@
       "Mod": "Anomaly",
       "BasePrice": 212,
       "Category": "Power",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BioferriteShaper": {
@@ -5847,7 +5847,7 @@
       "Mod": "Anomaly",
       "BasePrice": 265,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SerumCentrifuge": {
@@ -5862,7 +5862,7 @@
       "Mod": "Anomaly",
       "BasePrice": 964,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "BioferriteHarvester": {
@@ -5877,7 +5877,7 @@
       "Mod": "Anomaly",
       "BasePrice": 188,
       "Category": "Power",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ShardBeacon": {
@@ -5892,7 +5892,7 @@
       "Mod": "Anomaly",
       "BasePrice": 425,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VoidsightSerum": {
@@ -5982,7 +5982,7 @@
       "Mod": "Anomaly",
       "BasePrice": 4,
       "Category": "Leathers",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Shard": {
@@ -5997,7 +5997,7 @@
       "Mod": "Anomaly",
       "BasePrice": 532,
       "Category": "Manufactured",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "RevenantSpine": {
@@ -6012,7 +6012,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1000,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Meat_Twisted": {
@@ -6027,7 +6027,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1,
       "Category": "Meat",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GoldenCube": {
@@ -6040,9 +6040,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 1190,
+      "BasePrice": 1000000,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "MonolithFragment": {
@@ -6057,7 +6057,7 @@
       "Mod": "Anomaly",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_CultistMask": {
@@ -6072,7 +6072,7 @@
       "Mod": "Anomaly",
       "BasePrice": 80,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_CeremonialCultistMask": {
@@ -6102,7 +6102,7 @@
       "Mod": "Anomaly",
       "BasePrice": 600,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "NerveSpiker": {
@@ -41203,7 +41203,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_MoonSign": {
       "DefName": "ES_MoonSign",
@@ -41218,7 +41218,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_SwordsSign": {
       "DefName": "ES_SwordsSign",
@@ -41233,7 +41233,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_BedSign": {
       "DefName": "ES_BedSign",
@@ -41248,7 +41248,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_BowSign": {
       "DefName": "ES_BowSign",
@@ -41263,7 +41263,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_HorseSign": {
       "DefName": "ES_HorseSign",
@@ -41278,7 +41278,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_QuarrySign": {
       "DefName": "ES_QuarrySign",
@@ -41293,7 +41293,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_ScrollSign": {
       "DefName": "ES_ScrollSign",
@@ -41308,7 +41308,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_ScalesSign": {
       "DefName": "ES_ScalesSign",
@@ -41323,7 +41323,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_ScissorsSign": {
       "DefName": "ES_ScissorsSign",
@@ -41338,7 +41338,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_KnifeSign": {
       "DefName": "ES_KnifeSign",
@@ -41353,7 +41353,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_BookSign": {
       "DefName": "ES_BookSign",
@@ -41368,7 +41368,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_PotionSign": {
       "DefName": "ES_PotionSign",
@@ -41383,7 +41383,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_BlacksmithSign": {
       "DefName": "ES_BlacksmithSign",
@@ -41398,7 +41398,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ES_BathSign": {
       "DefName": "ES_BathSign",
@@ -41413,7 +41413,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AMT_Footwear_Peasantshoes": {
       "DefName": "AMT_Footwear_Peasantshoes",
@@ -48882,7 +48882,7 @@
       "Mod": "Anomaly",
       "BasePrice": 78,
       "Category": "Ghoul",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "MetalbloodHeart": {
@@ -48897,7 +48897,7 @@
       "Mod": "Anomaly",
       "BasePrice": 78,
       "Category": "Ghoul",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "RevenantVertebrae": {
@@ -48942,7 +48942,7 @@
       "Mod": "Anomaly",
       "BasePrice": 800,
       "Category": "Artifacts",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_DisruptorFlarePack": {
@@ -48957,7 +48957,7 @@
       "Mod": "Anomaly",
       "BasePrice": 63,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_PackTurret": {
@@ -48987,7 +48987,7 @@
       "Mod": "Anomaly",
       "BasePrice": 510,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_ShardPsychicInsanityLance": {
@@ -49002,7 +49002,7 @@
       "Mod": "Anomaly",
       "BasePrice": 530,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_BiomutationLance": {
@@ -49017,7 +49017,7 @@
       "Mod": "Anomaly",
       "BasePrice": 850,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_LabCoat": {
@@ -55033,7 +55033,7 @@
       "BasePrice": 179,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "WoodenCanopy": {
       "DefName": "WoodenCanopy",
@@ -55048,7 +55048,7 @@
       "BasePrice": 42,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Teepee": {
       "DefName": "Teepee",
@@ -55063,7 +55063,7 @@
       "BasePrice": 198,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Tent": {
       "DefName": "Tent",
@@ -55078,7 +55078,7 @@
       "BasePrice": 199,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VikingTent": {
       "DefName": "VikingTent",
@@ -55093,7 +55093,7 @@
       "BasePrice": 230,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ModernTent": {
       "DefName": "ModernTent",
@@ -55108,7 +55108,7 @@
       "BasePrice": 295,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "FoldingTent": {
       "DefName": "FoldingTent",
@@ -55123,7 +55123,7 @@
       "BasePrice": 230,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CampingLuggages": {
       "DefName": "CampingLuggages",
@@ -55138,7 +55138,7 @@
       "BasePrice": 49,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "WoodPile": {
       "DefName": "WoodPile",
@@ -55153,7 +55153,7 @@
       "BasePrice": 127,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Canon_Crown_Byzantine": {
       "DefName": "Canon_Crown_Byzantine",
@@ -59413,7 +59413,7 @@
       "BasePrice": 36,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DragonsBlood": {
       "DefName": "DragonsBlood",
@@ -59428,7 +59428,7 @@
       "BasePrice": 58,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "MoonStone": {
       "DefName": "MoonStone",
@@ -59443,7 +59443,7 @@
       "BasePrice": 28,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DragonNest": {
       "DefName": "DragonNest",
@@ -59458,7 +59458,7 @@
       "BasePrice": 31,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DragonPillow": {
       "DefName": "DragonPillow",
@@ -59473,7 +59473,7 @@
       "BasePrice": 124,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_DragonStatueRitual_Grand": {
       "DefName": "DD_DragonStatueRitual_Grand",
@@ -59488,7 +59488,7 @@
       "BasePrice": 1480,
       "Category": "Art",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_DragonStatueRitual_Large": {
       "DefName": "DD_DragonStatueRitual_Large",
@@ -59503,7 +59503,7 @@
       "BasePrice": 510,
       "Category": "Art",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_DragonStatueRitual_Small": {
       "DefName": "DD_DragonStatueRitual_Small",
@@ -59518,7 +59518,7 @@
       "BasePrice": 245,
       "Category": "Art",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Altar": {
       "DefName": "Altar",
@@ -59533,7 +59533,7 @@
       "BasePrice": 405,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "PubertyLance": {
       "DefName": "PubertyLance",
@@ -59548,7 +59548,7 @@
       "BasePrice": 1850,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "MatingHorn": {
       "DefName": "MatingHorn",
@@ -59563,7 +59563,7 @@
       "BasePrice": 2000,
       "Category": "Artifacts",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DragonHorn": {
       "DefName": "DragonHorn",
@@ -59578,7 +59578,7 @@
       "BasePrice": 870,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggDragonUnfertilized": {
       "DefName": "EggDragonUnfertilized",
@@ -59593,7 +59593,7 @@
       "BasePrice": 25,
       "Category": "Eggs (unfert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggBlackDragonFertilized": {
       "DefName": "EggBlackDragonFertilized",
@@ -59608,7 +59608,7 @@
       "BasePrice": 3200,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggBlueDragonFertilized": {
       "DefName": "EggBlueDragonFertilized",
@@ -59623,7 +59623,7 @@
       "BasePrice": 2500,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggGoldDragonFertilized": {
       "DefName": "EggGoldDragonFertilized",
@@ -59638,7 +59638,7 @@
       "BasePrice": 4100,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggGreenDragonFertilized": {
       "DefName": "EggGreenDragonFertilized",
@@ -59653,7 +59653,7 @@
       "BasePrice": 2500,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggJadeDragonFertilized": {
       "DefName": "EggJadeDragonFertilized",
@@ -59668,7 +59668,7 @@
       "BasePrice": 4100,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggPurpleDragonFertilized": {
       "DefName": "EggPurpleDragonFertilized",
@@ -59683,7 +59683,7 @@
       "BasePrice": 2500,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggRedDragonFertilized": {
       "DefName": "EggRedDragonFertilized",
@@ -59698,7 +59698,7 @@
       "BasePrice": 3200,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggSilverDragonFertilized": {
       "DefName": "EggSilverDragonFertilized",
@@ -59713,7 +59713,7 @@
       "BasePrice": 4100,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggTrueDragonFertilized": {
       "DefName": "EggTrueDragonFertilized",
@@ -59728,7 +59728,7 @@
       "BasePrice": 6650,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggWhiteDragonFertilized": {
       "DefName": "EggWhiteDragonFertilized",
@@ -59743,7 +59743,7 @@
       "BasePrice": 2500,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggYellowDragonFertilized": {
       "DefName": "EggYellowDragonFertilized",
@@ -59758,7 +59758,7 @@
       "BasePrice": 2500,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_EggDrakeFertilized": {
       "DefName": "DD_EggDrakeFertilized",
@@ -59773,7 +59773,7 @@
       "BasePrice": 500,
       "Category": "Dragon eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Dragon_Leather": {
       "DefName": "Dragon_Leather",
@@ -59788,7 +59788,7 @@
       "BasePrice": 17,
       "Category": "Leathers",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Rare_Dragon_Leather": {
       "DefName": "Rare_Dragon_Leather",
@@ -59803,7 +59803,7 @@
       "BasePrice": 23,
       "Category": "Leathers",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "True_Dragon_Leather": {
       "DefName": "True_Dragon_Leather",
@@ -59818,7 +59818,7 @@
       "BasePrice": 43,
       "Category": "Leathers",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "JewelBerries": {
       "DefName": "JewelBerries",
@@ -59833,7 +59833,7 @@
       "BasePrice": 2,
       "Category": "Vegetarian",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Jeweledrhizomeraw": {
       "DefName": "Jeweledrhizomeraw",
@@ -59848,7 +59848,7 @@
       "BasePrice": 2,
       "Category": "Vegetarian",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "HardScale": {
       "DefName": "HardScale",
@@ -59863,7 +59863,7 @@
       "BasePrice": 4,
       "Category": "Raw resources",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Apparel_ScaleHelm": {
       "DefName": "DD_Apparel_ScaleHelm",
@@ -59878,7 +59878,7 @@
       "BasePrice": 114,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Apparel_DragonCrown": {
       "DefName": "DD_Apparel_DragonCrown",
@@ -59893,7 +59893,7 @@
       "BasePrice": 1010,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Apparel_ScaleMail": {
       "DefName": "DD_Apparel_ScaleMail",
@@ -59908,7 +59908,7 @@
       "BasePrice": 405,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Apparel_WingCape": {
       "DefName": "DD_Apparel_WingCape",
@@ -59923,7 +59923,7 @@
       "BasePrice": 255,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Black_Dragon": {
       "DefName": "Black_Dragon",
@@ -59938,7 +59938,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Blue_Dragon": {
       "DefName": "Blue_Dragon",
@@ -59953,7 +59953,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Green_Dragon": {
       "DefName": "Green_Dragon",
@@ -59968,7 +59968,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Purple_Dragon": {
       "DefName": "Purple_Dragon",
@@ -59983,7 +59983,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Red_Dragon": {
       "DefName": "Red_Dragon",
@@ -59998,7 +59998,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "White_Dragon": {
       "DefName": "White_Dragon",
@@ -60013,7 +60013,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Yellow_Dragon": {
       "DefName": "Yellow_Dragon",
@@ -60028,7 +60028,7 @@
       "BasePrice": 6600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Drake": {
       "DefName": "DD_Drake",
@@ -60043,7 +60043,7 @@
       "BasePrice": 450,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gold_Dragon": {
       "DefName": "Gold_Dragon",
@@ -60058,7 +60058,7 @@
       "BasePrice": 7900,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Silver_Dragon": {
       "DefName": "Silver_Dragon",
@@ -60073,7 +60073,7 @@
       "BasePrice": 7900,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Jade_Dragon": {
       "DefName": "Jade_Dragon",
@@ -60088,7 +60088,7 @@
       "BasePrice": 7900,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "True_Dragon": {
       "DefName": "True_Dragon",
@@ -60103,7 +60103,7 @@
       "BasePrice": 7900,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Talbuk": {
       "DefName": "Talbuk",
@@ -60118,7 +60118,7 @@
       "BasePrice": 600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_MeleeWeapon_HornedLance": {
       "DefName": "DD_MeleeWeapon_HornedLance",
@@ -60133,7 +60133,7 @@
       "BasePrice": 2300,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_MeleeWeapon_DrachenSword": {
       "DefName": "DD_MeleeWeapon_DrachenSword",
@@ -60148,7 +60148,7 @@
       "BasePrice": 2200,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DDMeleeWeapon_ThrumboBattleAxe": {
       "DefName": "DDMeleeWeapon_ThrumboBattleAxe",
@@ -60163,7 +60163,7 @@
       "BasePrice": 1100,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DDMeleeWeapon_FocusingTome": {
       "DefName": "DDMeleeWeapon_FocusingTome",
@@ -60178,7 +60178,7 @@
       "BasePrice": 1600,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Gun_DragonfireLauncher": {
       "DefName": "DD_Gun_DragonfireLauncher",
@@ -60193,7 +60193,7 @@
       "BasePrice": 3000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DD_Bow_DoubleCrossbow": {
       "DefName": "DD_Bow_DoubleCrossbow",
@@ -60208,7 +60208,7 @@
       "BasePrice": 300,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "HAZN_HuntingTrap": {
       "DefName": "HAZN_HuntingTrap",
@@ -60223,7 +60223,7 @@
       "BasePrice": 60,
       "Category": "Production",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "DankPyon_Hide_Dragon_Leather": {
       "DefName": "DankPyon_Hide_Dragon_Leather",
@@ -60343,7 +60343,7 @@
       "BasePrice": 2350,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Cleaner": {
       "DefName": "AIRobot_RechargeStation_Cleaner",
@@ -60358,7 +60358,7 @@
       "BasePrice": 1950,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Hauler": {
       "DefName": "AIRobot_Hauler",
@@ -60373,7 +60373,7 @@
       "BasePrice": 10,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Cleaner": {
       "DefName": "AIRobot_Cleaner",
@@ -60385,10 +60385,10 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 10,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_AnimalTrap": {
       "DefName": "VFET_AnimalTrap",
@@ -60403,7 +60403,7 @@
       "BasePrice": 102,
       "Category": "Security",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_Apparel_TribalLight": {
       "DefName": "VFET_Apparel_TribalLight",
@@ -60418,7 +60418,7 @@
       "BasePrice": 84,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_Apparel_TribalHeavy": {
       "DefName": "VFET_Apparel_TribalHeavy",
@@ -60433,7 +60433,7 @@
       "BasePrice": 168,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_Apparel_TribalWar": {
       "DefName": "VFET_Apparel_TribalWar",
@@ -60448,7 +60448,7 @@
       "BasePrice": 250,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_Chunk": {
       "DefName": "VFET_Chunk",
@@ -60463,7 +60463,7 @@
       "BasePrice": 4,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_Stake": {
       "DefName": "VFET_Stake",
@@ -60478,7 +60478,7 @@
       "BasePrice": 10,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VFET_Throwspikes": {
       "DefName": "VFET_Throwspikes",
@@ -60493,7 +60493,7 @@
       "BasePrice": 24,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "BMT_ChunkIce": {
       "DefName": "BMT_ChunkIce",
@@ -65623,7 +65623,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CADevourer": {
       "DefName": "CADevourer",
@@ -65638,7 +65638,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CACrystalScythe": {
       "DefName": "CACrystalScythe",
@@ -65653,7 +65653,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CAHarbinger": {
       "DefName": "CAHarbinger",
@@ -65668,7 +65668,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CAHavoc": {
       "DefName": "CAHavoc",
@@ -65683,7 +65683,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CAEndBossMech": {
       "DefName": "CAEndBossMech",
@@ -65698,7 +65698,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CAFakeGun_ChargeBlasterHeavy": {
       "DefName": "CAFakeGun_ChargeBlasterHeavy",
@@ -65713,7 +65713,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CASpacerTentSupplies": {
       "DefName": "CASpacerTentSupplies",
@@ -65728,7 +65728,7 @@
       "BasePrice": 10,
       "Category": "Manufactured",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CAGrillSnack": {
       "DefName": "CAGrillSnack",
@@ -65743,7 +65743,7 @@
       "BasePrice": 12,
       "Category": "Meals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Doormat": {
       "DefName": "ED_Doormat",
@@ -65758,7 +65758,7 @@
       "BasePrice": 5,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Bin": {
       "DefName": "ED_Bin",
@@ -65773,7 +65773,7 @@
       "BasePrice": 2,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_SmallPhotos": {
       "DefName": "ED_SmallPhotos",
@@ -65788,7 +65788,7 @@
       "BasePrice": 6,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Candles": {
       "DefName": "ED_Candles",
@@ -65803,7 +65803,7 @@
       "BasePrice": 12,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_PetBowl": {
       "DefName": "ED_PetBowl",
@@ -65818,7 +65818,7 @@
       "BasePrice": 20,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Plushie": {
       "DefName": "ED_Plushie",
@@ -65833,7 +65833,7 @@
       "BasePrice": 7,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Vase": {
       "DefName": "ED_Vase",
@@ -65848,7 +65848,7 @@
       "BasePrice": 11,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Laptop": {
       "DefName": "ED_Laptop",
@@ -65863,7 +65863,7 @@
       "BasePrice": 4,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_SmallPlant": {
       "DefName": "ED_SmallPlant",
@@ -65878,7 +65878,7 @@
       "BasePrice": 10,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Paper": {
       "DefName": "ED_Paper",
@@ -65893,7 +65893,7 @@
       "BasePrice": 2,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Papers": {
       "DefName": "ED_Papers",
@@ -65908,7 +65908,7 @@
       "BasePrice": 2,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Book": {
       "DefName": "ED_Book",
@@ -65923,7 +65923,7 @@
       "BasePrice": 2,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_PileofBooks": {
       "DefName": "ED_PileofBooks",
@@ -65938,7 +65938,7 @@
       "BasePrice": 2,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_CatTower": {
       "DefName": "ED_CatTower",
@@ -65953,7 +65953,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_DogHouse": {
       "DefName": "ED_DogHouse",
@@ -65968,7 +65968,7 @@
       "BasePrice": 81,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Pillow": {
       "DefName": "ED_Pillow",
@@ -65983,7 +65983,7 @@
       "BasePrice": 6,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Trophy": {
       "DefName": "ED_Trophy",
@@ -65998,7 +65998,7 @@
       "BasePrice": 11,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ED_Clock": {
       "DefName": "ED_Clock",
@@ -66013,7 +66013,7 @@
       "BasePrice": 2,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "PowerArm": {
       "DefName": "PowerArm",
@@ -69598,7 +69598,7 @@
       "BasePrice": 2605,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRTSSkip": {
       "DefName": "SRTSSkip",
@@ -69613,7 +69613,7 @@
       "BasePrice": 3870,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRAF": {
       "DefName": "SRAF",
@@ -69628,7 +69628,7 @@
       "BasePrice": 11880,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRAFTek": {
       "DefName": "SRAFTek",
@@ -69643,7 +69643,7 @@
       "BasePrice": 21940,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRTSMkII": {
       "DefName": "SRTSMkII",
@@ -69658,7 +69658,7 @@
       "BasePrice": 20335,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRTSMkIII": {
       "DefName": "SRTSMkIII",
@@ -69673,7 +69673,7 @@
       "BasePrice": 32975,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRTSMkIIIp": {
       "DefName": "SRTSMkIIIp",
@@ -69688,7 +69688,7 @@
       "BasePrice": 33190,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SRTSMkIV": {
       "DefName": "SRTSMkIV",
@@ -69703,7 +69703,7 @@
       "BasePrice": 224785,
       "Category": "Buildings",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "XR_Xithid_Hivefist": {
       "DefName": "XR_Xithid_Hivefist",
@@ -72688,7 +72688,7 @@
       "BasePrice": 290,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_AutoWeapon": {
       "DefName": "Gun_AutoWeapon",
@@ -72703,7 +72703,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_MiniAutoWeapon": {
       "DefName": "Gun_MiniAutoWeapon",
@@ -72718,7 +72718,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Apparel_PackTurretDrone": {
       "DefName": "Apparel_PackTurretDrone",
@@ -72733,7 +72733,7 @@
       "BasePrice": 365,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorFigther": {
       "DefName": "Mech_PfhorFigther",
@@ -72748,7 +72748,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorTrooper": {
       "DefName": "Mech_PfhorTrooper",
@@ -72763,7 +72763,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorEnforcer": {
       "DefName": "Mech_PfhorEnforcer",
@@ -72778,7 +72778,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorHunter": {
       "DefName": "Mech_PfhorHunter",
@@ -72793,7 +72793,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorJuggernaut": {
       "DefName": "Mech_PfhorJuggernaut",
@@ -72808,7 +72808,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "MeleeWeapon_FigtherSpear": {
       "DefName": "MeleeWeapon_FigtherSpear",
@@ -72838,7 +72838,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_EnforcerBlaster": {
       "DefName": "Gun_EnforcerBlaster",
@@ -72853,7 +72853,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_JuggernautBlaster": {
       "DefName": "Gun_JuggernautBlaster",
@@ -72868,7 +72868,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_Spht": {
       "DefName": "Mech_Spht",
@@ -72883,7 +72883,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_SphtBlaster": {
       "DefName": "Gun_SphtBlaster",
@@ -72898,7 +72898,7 @@
       "BasePrice": 122,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Drone_DefenseDrone": {
       "DefName": "Drone_DefenseDrone",
@@ -72913,7 +72913,7 @@
       "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Drone_TurretDrone": {
       "DefName": "Drone_TurretDrone",
@@ -72928,7 +72928,7 @@
       "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ArchotechBrainEnhancer": {
       "DefName": "ArchotechBrainEnhancer",
@@ -72943,7 +72943,7 @@
       "BasePrice": 2800,
       "Category": "Archotech",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CounterMeasure": {
       "DefName": "CounterMeasure",
@@ -72958,7 +72958,7 @@
       "BasePrice": 1030,
       "Category": "Bionic",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "SBC_BabyCarrier": {
       "DefName": "SBC_BabyCarrier",
@@ -73888,7 +73888,7 @@
       "BasePrice": 2000,
       "Category": "Techprints",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Psytrainer_VPEP_BrainCut": {
       "DefName": "Psytrainer_VPEP_BrainCut",
@@ -75163,7 +75163,7 @@
       "BasePrice": 3000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggDromasFertilized": {
       "DefName": "EggDromasFertilized",
@@ -75178,7 +75178,7 @@
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EggDromasUnfertilized": {
       "DefName": "EggDromasUnfertilized",
@@ -75193,7 +75193,7 @@
       "BasePrice": 14,
       "Category": "Eggs (unfert.)",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Leather_Dromas": {
       "DefName": "Leather_Dromas",
@@ -75208,7 +75208,7 @@
       "BasePrice": 4,
       "Category": "Leathers",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Apparel_LM_CowboyHatPrestige": {
       "DefName": "Apparel_LM_CowboyHatPrestige",
@@ -75223,7 +75223,7 @@
       "BasePrice": 67,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Psytrainer_VPEH_Bloodfocus": {
       "DefName": "Psytrainer_VPEH_Bloodfocus",
@@ -75403,7 +75403,7 @@
       "BasePrice": 1000,
       "Category": "Manufactured",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "TychforMechPrint": {
       "DefName": "TychforMechPrint",
@@ -75418,7 +75418,7 @@
       "BasePrice": 1000,
       "Category": "Manufactured",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorCompilerMajor": {
       "DefName": "Mech_PfhorCompilerMajor",
@@ -75433,7 +75433,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorCompilerMajorBOSS": {
       "DefName": "Mech_PfhorCompilerMajorBOSS",
@@ -75448,7 +75448,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorJuggernautMajor": {
       "DefName": "Mech_PfhorJuggernautMajor",
@@ -75463,7 +75463,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorJuggernautMajorBOSS": {
       "DefName": "Mech_PfhorJuggernautMajorBOSS",
@@ -75478,7 +75478,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_EMPPowerCaster": {
       "DefName": "Gun_EMPPowerCaster",
@@ -75493,7 +75493,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_JuggernautBlasterMajor": {
       "DefName": "Gun_JuggernautBlasterMajor",
@@ -75508,7 +75508,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorDrone": {
       "DefName": "Mech_PfhorDrone",
@@ -75523,7 +75523,7 @@
       "BasePrice": 800,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorCompiler": {
       "DefName": "Mech_PfhorCompiler",
@@ -75538,7 +75538,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorHulk": {
       "DefName": "Mech_PfhorHulk",
@@ -75553,7 +75553,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Mech_PfhorCyborg": {
       "DefName": "Mech_PfhorCyborg",
@@ -75568,7 +75568,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_DroneBlaster": {
       "DefName": "Gun_DroneBlaster",
@@ -75583,7 +75583,7 @@
       "BasePrice": 122,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_EMPCaster": {
       "DefName": "Gun_EMPCaster",
@@ -75598,7 +75598,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gun_CyborgLauncher": {
       "DefName": "Gun_CyborgLauncher",
@@ -75613,7 +75613,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Hauler_II": {
       "DefName": "AIRobot_RechargeStation_Hauler_II",
@@ -75628,7 +75628,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Hauler_III": {
       "DefName": "AIRobot_RechargeStation_Hauler_III",
@@ -75643,7 +75643,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Hauler_IV": {
       "DefName": "AIRobot_RechargeStation_Hauler_IV",
@@ -75658,7 +75658,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Hauler_V": {
       "DefName": "AIRobot_RechargeStation_Hauler_V",
@@ -75673,7 +75673,7 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Cleaner_II": {
       "DefName": "AIRobot_RechargeStation_Cleaner_II",
@@ -75688,7 +75688,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Cleaner_III": {
       "DefName": "AIRobot_RechargeStation_Cleaner_III",
@@ -75703,7 +75703,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Cleaner_IV": {
       "DefName": "AIRobot_RechargeStation_Cleaner_IV",
@@ -75718,7 +75718,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_RechargeStation_Cleaner_V": {
       "DefName": "AIRobot_RechargeStation_Cleaner_V",
@@ -75733,7 +75733,7 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Builder_I": {
       "DefName": "RPP_RechargeStation_Builder_I",
@@ -75748,7 +75748,7 @@
       "BasePrice": 1050,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Builder_II": {
       "DefName": "RPP_RechargeStation_Builder_II",
@@ -75763,7 +75763,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Builder_III": {
       "DefName": "RPP_RechargeStation_Builder_III",
@@ -75778,7 +75778,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Builder_IV": {
       "DefName": "RPP_RechargeStation_Builder_IV",
@@ -75793,7 +75793,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Builder_V": {
       "DefName": "RPP_RechargeStation_Builder_V",
@@ -75808,7 +75808,7 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Crafter_I": {
       "DefName": "RPP_RechargeStation_Crafter_I",
@@ -75823,7 +75823,7 @@
       "BasePrice": 1050,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Crafter_II": {
       "DefName": "RPP_RechargeStation_Crafter_II",
@@ -75838,7 +75838,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Crafter_III": {
       "DefName": "RPP_RechargeStation_Crafter_III",
@@ -75853,7 +75853,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Crafter_IV": {
       "DefName": "RPP_RechargeStation_Crafter_IV",
@@ -75868,7 +75868,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Crafter_V": {
       "DefName": "RPP_RechargeStation_Crafter_V",
@@ -75883,7 +75883,7 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_ER_I": {
       "DefName": "RPP_RechargeStation_ER_I",
@@ -75898,7 +75898,7 @@
       "BasePrice": 1050,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_ER_II": {
       "DefName": "RPP_RechargeStation_ER_II",
@@ -75913,7 +75913,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_ER_III": {
       "DefName": "RPP_RechargeStation_ER_III",
@@ -75928,7 +75928,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_ER_IV": {
       "DefName": "RPP_RechargeStation_ER_IV",
@@ -75943,7 +75943,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_ER_V": {
       "DefName": "RPP_RechargeStation_ER_V",
@@ -75958,7 +75958,7 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Kitchen_I": {
       "DefName": "RPP_RechargeStation_Kitchen_I",
@@ -75973,7 +75973,7 @@
       "BasePrice": 1050,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Kitchen_II": {
       "DefName": "RPP_RechargeStation_Kitchen_II",
@@ -75988,7 +75988,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Kitchen_III": {
       "DefName": "RPP_RechargeStation_Kitchen_III",
@@ -76003,7 +76003,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Kitchen_IV": {
       "DefName": "RPP_RechargeStation_Kitchen_IV",
@@ -76018,7 +76018,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Kitchen_V": {
       "DefName": "RPP_RechargeStation_Kitchen_V",
@@ -76033,7 +76033,7 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Omni_I": {
       "DefName": "RPP_RechargeStation_Omni_I",
@@ -76048,7 +76048,7 @@
       "BasePrice": 1050,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Omni_II": {
       "DefName": "RPP_RechargeStation_Omni_II",
@@ -76063,7 +76063,7 @@
       "BasePrice": 1900,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Omni_III": {
       "DefName": "RPP_RechargeStation_Omni_III",
@@ -76078,7 +76078,7 @@
       "BasePrice": 5000,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Omni_IV": {
       "DefName": "RPP_RechargeStation_Omni_IV",
@@ -76093,7 +76093,7 @@
       "BasePrice": 11250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_RechargeStation_Omni_V": {
       "DefName": "RPP_RechargeStation_Omni_V",
@@ -76108,502 +76108,502 @@
       "BasePrice": 26250,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Hauler_II": {
       "DefName": "AIRobot_Hauler_II",
       "CustomName": "Hauling Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Hauler_III": {
       "DefName": "AIRobot_Hauler_III",
       "CustomName": "Hauling Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Hauler_IV": {
       "DefName": "AIRobot_Hauler_IV",
       "CustomName": "Hauling Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Hauler_V": {
       "DefName": "AIRobot_Hauler_V",
       "CustomName": "Hauling Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Cleaner_II": {
       "DefName": "AIRobot_Cleaner_II",
       "CustomName": "Cleaning Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Cleaner_III": {
       "DefName": "AIRobot_Cleaner_III",
       "CustomName": "Cleaning Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Cleaner_IV": {
       "DefName": "AIRobot_Cleaner_IV",
       "CustomName": "Cleaning Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AIRobot_Cleaner_V": {
       "DefName": "AIRobot_Cleaner_V",
       "CustomName": "Cleaning Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Builder_I": {
       "DefName": "RPP_Bot_Builder_I",
       "CustomName": "Builder Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Builder_II": {
       "DefName": "RPP_Bot_Builder_II",
       "CustomName": "Builder Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Builder_III": {
       "DefName": "RPP_Bot_Builder_III",
       "CustomName": "Builder Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Builder_IV": {
       "DefName": "RPP_Bot_Builder_IV",
       "CustomName": "Builder Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Builder_V": {
       "DefName": "RPP_Bot_Builder_V",
       "CustomName": "Builder Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Crafter_I": {
       "DefName": "RPP_Bot_Crafter_I",
       "CustomName": "Crafter Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Crafter_II": {
       "DefName": "RPP_Bot_Crafter_II",
       "CustomName": "Crafter Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Crafter_III": {
       "DefName": "RPP_Bot_Crafter_III",
       "CustomName": "Crafter Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Crafter_IV": {
       "DefName": "RPP_Bot_Crafter_IV",
       "CustomName": "Crafter Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Crafter_V": {
       "DefName": "RPP_Bot_Crafter_V",
       "CustomName": "Crafter Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_ER_I": {
       "DefName": "RPP_Bot_ER_I",
       "CustomName": "ER Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_ER_II": {
       "DefName": "RPP_Bot_ER_II",
       "CustomName": "ER Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_ER_III": {
       "DefName": "RPP_Bot_ER_III",
       "CustomName": "ER Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_ER_IV": {
       "DefName": "RPP_Bot_ER_IV",
       "CustomName": "ER Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_ER_V": {
       "DefName": "RPP_Bot_ER_V",
       "CustomName": "ER Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Kitchen_I": {
       "DefName": "RPP_Bot_Kitchen_I",
       "CustomName": "Kitchen Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Kitchen_II": {
       "DefName": "RPP_Bot_Kitchen_II",
       "CustomName": "Kitchen Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Kitchen_III": {
       "DefName": "RPP_Bot_Kitchen_III",
       "CustomName": "Kitchen Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Kitchen_IV": {
       "DefName": "RPP_Bot_Kitchen_IV",
       "CustomName": "Kitchen Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Kitchen_V": {
       "DefName": "RPP_Bot_Kitchen_V",
       "CustomName": "Kitchen Bot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 100,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Omni_I": {
       "DefName": "RPP_Bot_Omni_I",
       "CustomName": "OmniBot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 500,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Omni_II": {
       "DefName": "RPP_Bot_Omni_II",
       "CustomName": "OmniBot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 500,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Omni_III": {
       "DefName": "RPP_Bot_Omni_III",
       "CustomName": "OmniBot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 500,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Omni_IV": {
       "DefName": "RPP_Bot_Omni_IV",
       "CustomName": "OmniBot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 500,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Bot_Omni_V": {
       "DefName": "RPP_Bot_Omni_V",
       "CustomName": "OmniBot",
-      "HasQuantityLimit": true,
+      "HasQuantityLimit": false,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Misc. Robots++",
-      "BasePrice": 1000,
+      "BasePrice": 500,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Component": {
       "DefName": "RPP_Component",
@@ -76618,7 +76618,7 @@
       "BasePrice": 200,
       "Category": "Robots",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Matrix_I": {
       "DefName": "RPP_Matrix_I",
@@ -76633,7 +76633,7 @@
       "BasePrice": 465,
       "Category": "Matrices",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Matrix_II": {
       "DefName": "RPP_Matrix_II",
@@ -76648,7 +76648,7 @@
       "BasePrice": 1095,
       "Category": "Matrices",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Matrix_III": {
       "DefName": "RPP_Matrix_III",
@@ -76663,7 +76663,7 @@
       "BasePrice": 2495,
       "Category": "Matrices",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Matrix_IV": {
       "DefName": "RPP_Matrix_IV",
@@ -76678,7 +76678,7 @@
       "BasePrice": 5290,
       "Category": "Matrices",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RPP_Matrix_V": {
       "DefName": "RPP_Matrix_V",
@@ -76693,7 +76693,7 @@
       "BasePrice": 10780,
       "Category": "Matrices",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Table_RPP_RoboticsBench": {
       "DefName": "Table_RPP_RoboticsBench",
@@ -76707,6 +76707,4011 @@
       "Mod": "Misc. Robots++",
       "BasePrice": 895,
       "Category": "Production",
+      "Enabled": true,
+      "modactive": false
+    },
+    "Nociosphere": {
+      "DefName": "Nociosphere",
+      "CustomName": "Nociosphere",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Metalhorror": {
+      "DefName": "Metalhorror",
+      "CustomName": "Metalhorror",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Revenant": {
+      "DefName": "Revenant",
+      "CustomName": "Revenant",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Sightstealer": {
+      "DefName": "Sightstealer",
+      "CustomName": "Sightstealer",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 3,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Noctol": {
+      "DefName": "Noctol",
+      "CustomName": "Noctol",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gorehulk": {
+      "DefName": "Gorehulk",
+      "CustomName": "Gorehulk",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 3,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Devourer": {
+      "DefName": "Devourer",
+      "CustomName": "Devourer",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Chimera": {
+      "DefName": "Chimera",
+      "CustomName": "Chimera",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Bulbfreak": {
+      "DefName": "Bulbfreak",
+      "CustomName": "Bulbfreak",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 3,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Toughspike": {
+      "DefName": "Toughspike",
+      "CustomName": "Toughspike",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 3,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Trispike": {
+      "DefName": "Trispike",
+      "CustomName": "Trispike",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 3,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Fingerspike": {
+      "DefName": "Fingerspike",
+      "CustomName": "Fingerspike",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 3,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Dreadmeld": {
+      "DefName": "Dreadmeld",
+      "CustomName": "Dreadmeld",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly",
+      "BasePrice": 5,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_ChemfuelMiniBurner": {
+      "DefName": "MU_ChemfuelMiniBurner",
+      "CustomName": "Mini-burner",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 310,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_ChemfuelBurner": {
+      "DefName": "MU_ChemfuelBurner",
+      "CustomName": "Burner",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 555,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_ChemfuelFlamethrower": {
+      "DefName": "MU_ChemfuelFlamethrower",
+      "CustomName": "Flamethrower",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1205,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_CargoCell_Small": {
+      "DefName": "MU_CargoCell_Small",
+      "CustomName": "Small cargo cell",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 260,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_CargoCell_Double": {
+      "DefName": "MU_CargoCell_Double",
+      "CustomName": "Double cargo cell",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 445,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_CargoCell_Large": {
+      "DefName": "MU_CargoCell_Large",
+      "CustomName": "Large cargo cell",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 905,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_FragGrenades": {
+      "DefName": "MU_FragGrenades",
+      "CustomName": "Frag grenades",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 360,
+      "Category": "Grenades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_IncendiaryGrenades": {
+      "DefName": "MU_IncendiaryGrenades",
+      "CustomName": "Incendiary grenades",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 420,
+      "Category": "Grenades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_EMPGrenades": {
+      "DefName": "MU_EMPGrenades",
+      "CustomName": "EMP grenades",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 400,
+      "Category": "Grenades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_ShieldBooster": {
+      "DefName": "MU_ShieldBooster",
+      "CustomName": "Shield booster",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1620,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_LegActuators": {
+      "DefName": "MU_LegActuators",
+      "CustomName": "Reinforced leg actuators",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1430,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_UrchinSpawner": {
+      "DefName": "MU_UrchinSpawner",
+      "CustomName": "Urchin mini-gestator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1445,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_JumpLauncher": {
+      "DefName": "MU_JumpLauncher",
+      "CustomName": "Jump launcher",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 635,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MedicineKit": {
+      "DefName": "MU_MedicineKit",
+      "CustomName": "Medicine kit",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 460,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_FrequencyAmplifier": {
+      "DefName": "MU_FrequencyAmplifier",
+      "CustomName": "Frequency amplifier",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1000,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Repair_A": {
+      "DefName": "MU_Module_Repair_A",
+      "CustomName": "Repair module tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1315,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Repair_B": {
+      "DefName": "MU_Module_Repair_B",
+      "CustomName": "Repair module tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 550,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Repair_C": {
+      "DefName": "MU_Module_Repair_C",
+      "CustomName": "Repair module tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 205,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Melee_A": {
+      "DefName": "MU_Module_Melee_A",
+      "CustomName": "Melee damage module tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1315,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Melee_B": {
+      "DefName": "MU_Module_Melee_B",
+      "CustomName": "Melee damage module tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 550,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Melee_C": {
+      "DefName": "MU_Module_Melee_C",
+      "CustomName": "Melee damage module tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 205,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Ranged_A": {
+      "DefName": "MU_Module_Ranged_A",
+      "CustomName": "Ranged damage module tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1315,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Ranged_B": {
+      "DefName": "MU_Module_Ranged_B",
+      "CustomName": "Ranged damage module tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 550,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Ranged_C": {
+      "DefName": "MU_Module_Ranged_C",
+      "CustomName": "Ranged damage module tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 205,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Shield_A": {
+      "DefName": "MU_Module_Shield_A",
+      "CustomName": "Shield module tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1315,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Shield_B": {
+      "DefName": "MU_Module_Shield_B",
+      "CustomName": "Shield module tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 550,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Shield_C": {
+      "DefName": "MU_Module_Shield_C",
+      "CustomName": "Shield module tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 205,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Module_Robust": {
+      "DefName": "MU_Module_Robust",
+      "CustomName": "Durability module",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 2000,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_CommandPack": {
+      "DefName": "MU_CommandPack",
+      "CustomName": "Command pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 2020,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_FirefoamPopPack": {
+      "DefName": "MU_FirefoamPopPack",
+      "CustomName": "Firefoam pop pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 245,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_SmokePopPack": {
+      "DefName": "MU_SmokePopPack",
+      "CustomName": "Smoke pop pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 265,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Small_A": {
+      "DefName": "MU_Shield_Small_A",
+      "CustomName": "Small shield tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1305,
+      "Category": "Small shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Small_B": {
+      "DefName": "MU_Shield_Small_B",
+      "CustomName": "Small shield tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 530,
+      "Category": "Small shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Small_C": {
+      "DefName": "MU_Shield_Small_C",
+      "CustomName": "Small shield tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 260,
+      "Category": "Small shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Medium_A": {
+      "DefName": "MU_Shield_Medium_A",
+      "CustomName": "Medium shield tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1510,
+      "Category": "Medium shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Medium_B": {
+      "DefName": "MU_Shield_Medium_B",
+      "CustomName": "Medium shield tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 670,
+      "Category": "Medium shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Medium_C": {
+      "DefName": "MU_Shield_Medium_C",
+      "CustomName": "Medium shield tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 340,
+      "Category": "Medium shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Large_A": {
+      "DefName": "MU_Shield_Large_A",
+      "CustomName": "Large shield tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 2480,
+      "Category": "Large shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Large_B": {
+      "DefName": "MU_Shield_Large_B",
+      "CustomName": "Large shield tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1365,
+      "Category": "Large shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_Shield_Large_C": {
+      "DefName": "MU_Shield_Large_C",
+      "CustomName": "Large shield tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 730,
+      "Category": "Large shields",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_UpgradePack_Militor": {
+      "DefName": "MU_UpgradePack_Militor",
+      "CustomName": "Militor upgrade pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 3500,
+      "Category": "Upgrade packs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_UpgradePack_Scyther": {
+      "DefName": "MU_UpgradePack_Scyther",
+      "CustomName": "Scyther upgrade pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 3500,
+      "Category": "Upgrade packs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_UpgradePack_Tesseron": {
+      "DefName": "MU_UpgradePack_Tesseron",
+      "CustomName": "Tesseron upgrade pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 3500,
+      "Category": "Upgrade packs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MiniTurret": {
+      "DefName": "MU_MiniTurret",
+      "CustomName": "Mini-turret",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 380,
+      "Category": "Turrets",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_BasicUpgradesAssembler": {
+      "DefName": "MU_BasicUpgradesAssembler",
+      "CustomName": "Basic upgrades assembler",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 615,
+      "Category": "Production",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_AdvancedUpgradesAssembler": {
+      "DefName": "MU_AdvancedUpgradesAssembler",
+      "CustomName": "Advanced upgrades assembler",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1005,
+      "Category": "Production",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_UpgradesStorage": {
+      "DefName": "MU_UpgradesStorage",
+      "CustomName": "Upgrades storage",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 197,
+      "Category": "Production",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_LargeUpgradesStorage": {
+      "DefName": "MU_LargeUpgradesStorage",
+      "CustomName": "Large upgrades storage",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 635,
+      "Category": "Production",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_AssemblyCentrifuge": {
+      "DefName": "MU_AssemblyCentrifuge",
+      "CustomName": "Assembly centrifuge",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 245,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_UpgradesFabricator": {
+      "DefName": "MU_UpgradesFabricator",
+      "CustomName": "Upgrades fabricator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 605,
+      "Category": "Production",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Large_C": {
+      "DefName": "MU_MechArmor_Large_C",
+      "CustomName": "Large mech armor tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 720,
+      "Category": "Large armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Large_B": {
+      "DefName": "MU_MechArmor_Large_B",
+      "CustomName": "Large mech armor tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1390,
+      "Category": "Large armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Large_A": {
+      "DefName": "MU_MechArmor_Large_A",
+      "CustomName": "Large mech armor tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 2770,
+      "Category": "Large armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Medium_C": {
+      "DefName": "MU_MechArmor_Medium_C",
+      "CustomName": "Medium mech armor tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 260,
+      "Category": "Medium armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Medium_B": {
+      "DefName": "MU_MechArmor_Medium_B",
+      "CustomName": "Medium mech armor tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 655,
+      "Category": "Medium armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Medium_A": {
+      "DefName": "MU_MechArmor_Medium_A",
+      "CustomName": "Medium mech armor tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1945,
+      "Category": "Medium armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Small_C": {
+      "DefName": "MU_MechArmor_Small_C",
+      "CustomName": "Small mech armor tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 196,
+      "Category": "Small armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Small_B": {
+      "DefName": "MU_MechArmor_Small_B",
+      "CustomName": "Small mech armor tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 495,
+      "Category": "Small armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_Small_A": {
+      "DefName": "MU_MechArmor_Small_A",
+      "CustomName": "Small mech armor tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1745,
+      "Category": "Small armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_UltraLarge_C": {
+      "DefName": "MU_MechArmor_UltraLarge_C",
+      "CustomName": "Ultra large mech armor tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 985,
+      "Category": "Ultra large armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_UltraLarge_B": {
+      "DefName": "MU_MechArmor_UltraLarge_B",
+      "CustomName": "Ultra large mech armor tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1950,
+      "Category": "Ultra large armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechArmor_UltraLarge_A": {
+      "DefName": "MU_MechArmor_UltraLarge_A",
+      "CustomName": "Ultra large mech armor tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 3260,
+      "Category": "Ultra large armor",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Melee_A": {
+      "DefName": "MU_MechChip_Melee_A",
+      "CustomName": "Melee chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Melee_B": {
+      "DefName": "MU_MechChip_Melee_B",
+      "CustomName": "Melee chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Melee_C": {
+      "DefName": "MU_MechChip_Melee_C",
+      "CustomName": "Melee chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Dodge_A": {
+      "DefName": "MU_MechChip_Dodge_A",
+      "CustomName": "Dodge chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Dodge_B": {
+      "DefName": "MU_MechChip_Dodge_B",
+      "CustomName": "Dodge chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Dodge_C": {
+      "DefName": "MU_MechChip_Dodge_C",
+      "CustomName": "Dodge chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_GastroAnalize_A": {
+      "DefName": "MU_MechChip_GastroAnalize_A",
+      "CustomName": "Gastro-analize chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_GastroAnalize_B": {
+      "DefName": "MU_MechChip_GastroAnalize_B",
+      "CustomName": "Gastro-analize chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Production_A": {
+      "DefName": "MU_MechChip_Production_A",
+      "CustomName": "Production chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Production_B": {
+      "DefName": "MU_MechChip_Production_B",
+      "CustomName": "Production chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Medical_A": {
+      "DefName": "MU_MechChip_Medical_A",
+      "CustomName": "Medical chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Medical_B": {
+      "DefName": "MU_MechChip_Medical_B",
+      "CustomName": "Medical chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_RemoteControlChip": {
+      "DefName": "MU_RemoteControlChip",
+      "CustomName": "Remote control chip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 1000,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Ranged_A": {
+      "DefName": "MU_MechChip_Ranged_A",
+      "CustomName": "Accuracy chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Ranged_B": {
+      "DefName": "MU_MechChip_Ranged_B",
+      "CustomName": "Accuracy chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Ranged_C": {
+      "DefName": "MU_MechChip_Ranged_C",
+      "CustomName": "Accuracy chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Reload_A": {
+      "DefName": "MU_MechChip_Reload_A",
+      "CustomName": "Reload chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Reload_B": {
+      "DefName": "MU_MechChip_Reload_B",
+      "CustomName": "Reload chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Reload_C": {
+      "DefName": "MU_MechChip_Reload_C",
+      "CustomName": "Reload chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Aiming_A": {
+      "DefName": "MU_MechChip_Aiming_A",
+      "CustomName": "Aiming chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Aiming_B": {
+      "DefName": "MU_MechChip_Aiming_B",
+      "CustomName": "Aiming chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Aiming_C": {
+      "DefName": "MU_MechChip_Aiming_C",
+      "CustomName": "Aiming chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Range_A": {
+      "DefName": "MU_MechChip_Range_A",
+      "CustomName": "Range increase chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Range_B": {
+      "DefName": "MU_MechChip_Range_B",
+      "CustomName": "Range increase chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Range_C": {
+      "DefName": "MU_MechChip_Range_C",
+      "CustomName": "Range increase chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Work_A": {
+      "DefName": "MU_MechChip_Work_A",
+      "CustomName": "Work chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Work_B": {
+      "DefName": "MU_MechChip_Work_B",
+      "CustomName": "Work chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Work_C": {
+      "DefName": "MU_MechChip_Work_C",
+      "CustomName": "Work chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Speed_A": {
+      "DefName": "MU_MechChip_Speed_A",
+      "CustomName": "Speed chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Speed_B": {
+      "DefName": "MU_MechChip_Speed_B",
+      "CustomName": "Speed chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Speed_C": {
+      "DefName": "MU_MechChip_Speed_C",
+      "CustomName": "Speed chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Energy_A": {
+      "DefName": "MU_MechChip_Energy_A",
+      "CustomName": "Energy chip tier A",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 690,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Energy_B": {
+      "DefName": "MU_MechChip_Energy_B",
+      "CustomName": "Energy chip tier B",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 365,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_MechChip_Energy_C": {
+      "DefName": "MU_MechChip_Energy_C",
+      "CustomName": "Energy chip tier C",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades",
+      "BasePrice": 123,
+      "Category": "Chips",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_AcidSpitter": {
+      "DefName": "MU_AcidSpitter",
+      "CustomName": "Acid spitter",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 760,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_AcidSynthesizer": {
+      "DefName": "MU_AcidSynthesizer",
+      "CustomName": "Acid synthesizer",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 885,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_DisruptorFlares": {
+      "DefName": "MU_DisruptorFlares",
+      "CustomName": "Disruptor flare pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 200,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_InvisibilityModule": {
+      "DefName": "MU_InvisibilityModule",
+      "CustomName": "Invisibility module",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 2045,
+      "Category": "Modules",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_BioferriteMiniBurner": {
+      "DefName": "MU_BioferriteMiniBurner",
+      "CustomName": "Mini-burner (bioferrite)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 305,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_BioferriteBurner": {
+      "DefName": "MU_BioferriteBurner",
+      "CustomName": "Burner (bioferrite)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 650,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MU_BioferriteFlamethrower": {
+      "DefName": "MU_BioferriteFlamethrower",
+      "CustomName": "Flamethrower (bioferrite)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Mechanoid Upgrades - Anomaly",
+      "BasePrice": 910,
+      "Category": "Mech upgrades",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_FleshBiomass": {
+      "DefName": "FB_FleshBiomass",
+      "CustomName": "Flesh biomass",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 20,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 10,
+      "Category": "Animal products",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_OrganicComponent": {
+      "DefName": "FB_OrganicComponent",
+      "CustomName": "Organic component",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 50,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 40,
+      "Category": "Manufactured",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BudFlesh_FleshBladeSeed": {
+      "DefName": "BudFlesh_FleshBladeSeed",
+      "CustomName": "Flesh Blade seed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 70,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BudFlesh_CrimsonFangSeed": {
+      "DefName": "BudFlesh_CrimsonFangSeed",
+      "CustomName": "Crimson Fang Seed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 80,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BudFlesh_FerriteFangrootSeed": {
+      "DefName": "BudFlesh_FerriteFangrootSeed",
+      "CustomName": "Ferrite Seed",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 85,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_EggPersonalityParasite": {
+      "DefName": "FB_EggPersonalityParasite",
+      "CustomName": "Personality parasite egg",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 100,
+      "Category": "Eggs (fert.)",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_BurdenBlob": {
+      "DefName": "FB_BurdenBlob",
+      "CustomName": "Burden blob",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 65,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_CarapaceExcavator": {
+      "DefName": "FB_CarapaceExcavator",
+      "CustomName": "Carapace excavator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 190,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Cocoonback": {
+      "DefName": "FB_Cocoonback",
+      "CustomName": "Cocoonback",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 360,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_CortexMite": {
+      "DefName": "FB_CortexMite",
+      "CustomName": "Cortex mite",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 120,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Ferrimaw": {
+      "DefName": "FB_Ferrimaw",
+      "CustomName": "Ferrimaw",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 165,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_FingerspikeGauntlet": {
+      "DefName": "FB_FingerspikeGauntlet",
+      "CustomName": "Fingerspike gauntlet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 400,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Graftmaw": {
+      "DefName": "FB_Graftmaw",
+      "CustomName": "Graftmaw",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 185,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Nerveclot": {
+      "DefName": "FB_Nerveclot",
+      "CustomName": "Nerveclot",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 280,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Rotlarva": {
+      "DefName": "FB_Rotlarva",
+      "CustomName": "Rotlarva",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 150,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Sclerat": {
+      "DefName": "FB_Sclerat",
+      "CustomName": "Sclerat",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 35,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "FB_Thrallbloom": {
+      "DefName": "FB_Thrallbloom",
+      "CustomName": "Thrallbloom",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Fleshbeast Colony",
+      "BasePrice": 420,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_AmberSculptureMedium": {
+      "DefName": "BMT_AmberSculptureMedium",
+      "CustomName": "Medium amber",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 365,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_AmberSculptureLarge": {
+      "DefName": "BMT_AmberSculptureLarge",
+      "CustomName": "Large amber",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 830,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DinoFootprintsTableSlab": {
+      "DefName": "BMT_DinoFootprintsTableSlab",
+      "CustomName": "Dino footprints table slab",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 158,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_KaijuFootprintTableSlab": {
+      "DefName": "BMT_KaijuFootprintTableSlab",
+      "CustomName": "Kaiju footprint table slab",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 150,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_NestTableSlab": {
+      "DefName": "BMT_NestTableSlab",
+      "CustomName": "Nest table slab",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 146,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DioramaCoast": {
+      "DefName": "BMT_DioramaCoast",
+      "CustomName": "Diorama coast",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 154,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DioramaPlains": {
+      "DefName": "BMT_DioramaPlains",
+      "CustomName": "Diorama plains",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 154,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DioramaValley": {
+      "DefName": "BMT_DioramaValley",
+      "CustomName": "Diorama valley",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 154,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Chungking": {
+      "DefName": "BMT_FossilInfo1Chungking",
+      "CustomName": "Chungkingosaurus sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Dna": {
+      "DefName": "BMT_FossilInfo1Dna",
+      "CustomName": "Cloning sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Fern": {
+      "DefName": "BMT_FossilInfo1Fern",
+      "CustomName": "Fern sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Fish": {
+      "DefName": "BMT_FossilInfo1Fish",
+      "CustomName": "Fish sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Footprints": {
+      "DefName": "BMT_FossilInfo1Footprints",
+      "CustomName": "Footprints sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Shell": {
+      "DefName": "BMT_FossilInfo1Shell",
+      "CustomName": "Shell sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1Text": {
+      "DefName": "BMT_FossilInfo1Text",
+      "CustomName": "Text sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo1TriSkull": {
+      "DefName": "BMT_FossilInfo1TriSkull",
+      "CustomName": "Triceratops sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 60,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Dna": {
+      "DefName": "BMT_FossilInfo2Dna",
+      "CustomName": "Cloning sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Road": {
+      "DefName": "BMT_FossilInfo2Road",
+      "CustomName": "Evolution sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Footprints": {
+      "DefName": "BMT_FossilInfo2Footprints",
+      "CustomName": "Footprints sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Gallimimus": {
+      "DefName": "BMT_FossilInfo2Gallimimus",
+      "CustomName": "Gallimimus sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Iguanodon": {
+      "DefName": "BMT_FossilInfo2Iguanodon",
+      "CustomName": "Iguanodon sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Mosa": {
+      "DefName": "BMT_FossilInfo2Mosa",
+      "CustomName": "Mosasaurus sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Plants": {
+      "DefName": "BMT_FossilInfo2Plants",
+      "CustomName": "Plants sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Ptero": {
+      "DefName": "BMT_FossilInfo2Ptero",
+      "CustomName": "Pteranodon sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Spino": {
+      "DefName": "BMT_FossilInfo2Spino",
+      "CustomName": "Spinosaurus sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo2Trex": {
+      "DefName": "BMT_FossilInfo2Trex",
+      "CustomName": "T-rex sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 118,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Allosaurus": {
+      "DefName": "BMT_FossilInfo3Allosaurus",
+      "CustomName": "Allosaurus sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Ankleo": {
+      "DefName": "BMT_FossilInfo3Ankleo",
+      "CustomName": "Ankylosaur sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Measured": {
+      "DefName": "BMT_FossilInfo3Measured",
+      "CustomName": "Brachiosaur sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Chlorosaurus": {
+      "DefName": "BMT_FossilInfo3Chlorosaurus",
+      "CustomName": "Chlorosaurus sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Cloning": {
+      "DefName": "BMT_FossilInfo3Cloning",
+      "CustomName": "Cloning sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Footprints": {
+      "DefName": "BMT_FossilInfo3Footprints",
+      "CustomName": "Footprints sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Dying": {
+      "DefName": "BMT_FossilInfo3Dying",
+      "CustomName": "Fossilization sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Cycle": {
+      "DefName": "BMT_FossilInfo3Cycle",
+      "CustomName": "Life cycle sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Raptors": {
+      "DefName": "BMT_FossilInfo3Raptors",
+      "CustomName": "Raptors sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilInfo3Triceratops": {
+      "DefName": "BMT_FossilInfo3Triceratops",
+      "CustomName": "Triceratops sign",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 172,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_CeratopsPlush": {
+      "DefName": "BMT_CeratopsPlush",
+      "CustomName": "Ceratops plush",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 100,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_RexyPlush": {
+      "DefName": "BMT_RexyPlush",
+      "CustomName": "Rexy plush",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 100,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_SauropodPlush": {
+      "DefName": "BMT_SauropodPlush",
+      "CustomName": "Sauropod plush",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 100,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_StegoPlush": {
+      "DefName": "BMT_StegoPlush",
+      "CustomName": "Stego plush",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 100,
+      "Category": "Art",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_TablePaleontology": {
+      "DefName": "BMT_TablePaleontology",
+      "CustomName": "Paleontology bench",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 260,
+      "Category": "Production",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DisplaySmall": {
+      "DefName": "BMT_DisplaySmall",
+      "CustomName": "Small display",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 52,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DisplayMedium": {
+      "DefName": "BMT_DisplayMedium",
+      "CustomName": "Medium display",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 96,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DisplayLarge": {
+      "DefName": "BMT_DisplayLarge",
+      "CustomName": "Large display",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 164,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DisplayCase": {
+      "DefName": "BMT_DisplayCase",
+      "CustomName": "Simple display case",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 21,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilSculptureMedium": {
+      "DefName": "BMT_FossilSculptureMedium",
+      "CustomName": "Medium fossil",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 335,
+      "Category": "Fossils",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_DisplayLight": {
+      "DefName": "BMT_DisplayLight",
+      "CustomName": "Display light",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 16,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_Apparel_DinoHatCarni": {
+      "DefName": "BMT_Apparel_DinoHatCarni",
+      "CustomName": "Dino hat carni",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 44,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_Apparel_DinoHatHerbi": {
+      "DefName": "BMT_Apparel_DinoHatHerbi",
+      "CustomName": "Dino hat herbi",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 44,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_Apparel_DinoHatMascot": {
+      "DefName": "BMT_Apparel_DinoHatMascot",
+      "CustomName": "Dino hat mascot",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 44,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_Apparel_MascotOutfit": {
+      "DefName": "BMT_Apparel_MascotOutfit",
+      "CustomName": "Dino mascot",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 189,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_PaleontologyItemSmall_Amber": {
+      "DefName": "BMT_PaleontologyItemSmall_Amber",
+      "CustomName": "Small amber",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 50,
+      "Category": "Display item",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_PaleontologyItemSmall_Fossil": {
+      "DefName": "BMT_PaleontologyItemSmall_Fossil",
+      "CustomName": "Small fossil",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 50,
+      "Category": "Display item",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_AmberResource": {
+      "DefName": "BMT_AmberResource",
+      "CustomName": "Amber",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 6,
+      "Category": "Raw resources",
+      "Enabled": true,
+      "modactive": true
+    },
+    "BMT_FossilResource": {
+      "DefName": "BMT_FossilResource",
+      "CustomName": "Fossils",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Biomes! Fossils",
+      "BasePrice": 5,
+      "Category": "Raw resources",
+      "Enabled": true,
+      "modactive": true
+    },
+    "GravHoldingPlatform": {
+      "DefName": "GravHoldingPlatform",
+      "CustomName": "Grav holding platform",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly for Gravship",
+      "BasePrice": 850,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "GravShardInhibitor": {
+      "DefName": "GravShardInhibitor",
+      "CustomName": "Grav shard inhibitor",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly for Gravship",
+      "BasePrice": 2215,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "GravShardBeacon": {
+      "DefName": "GravShardBeacon",
+      "CustomName": "Grav shard beacon",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly for Gravship",
+      "BasePrice": 1760,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "VacProtectSerum": {
+      "DefName": "VacProtectSerum",
+      "CustomName": "Vac protect serum",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly for Gravship",
+      "BasePrice": 80,
+      "Category": "Drugs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AP_Apparel_PackTeleport": {
+      "DefName": "AP_Apparel_PackTeleport",
+      "CustomName": "Shard portal pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Anomaly Portal",
+      "BasePrice": 460,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AP_Apparel_PackSignal": {
+      "DefName": "AP_Apparel_PackSignal",
+      "CustomName": "Shard signal pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Anomaly Portal",
+      "BasePrice": 475,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "AP_Portal": {
+      "DefName": "AP_Portal",
+      "CustomName": "ShardPortal",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Anomaly Portal",
+      "BasePrice": 2275,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_BileHeart": {
+      "DefName": "NAT_BileHeart",
+      "CustomName": "Bile heart",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 95,
+      "Category": "Ghoul",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_AncientFabric": {
+      "DefName": "NAT_AncientFabric",
+      "CustomName": "Ancient fabric",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 3,
+      "Category": "Textiles",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedShell_Explosive": {
+      "DefName": "NAT_RustedShell_Explosive",
+      "CustomName": "Rusted explosive shell",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 25,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 55,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_PainQuenchSerum": {
+      "DefName": "NAT_PainQuenchSerum",
+      "CustomName": "Pain quench serum",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 40,
+      "Category": "Drugs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_BilePowerSerum": {
+      "DefName": "NAT_BilePowerSerum",
+      "CustomName": "Bile power serum",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 160,
+      "Category": "Drugs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedActivator_Speed": {
+      "DefName": "NAT_RustedActivator_Speed",
+      "CustomName": "Rusted speed activator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 55,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedActivator_Durability": {
+      "DefName": "NAT_RustedActivator_Durability",
+      "CustomName": "Rusted durability activator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 55,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedActivator_Charge": {
+      "DefName": "NAT_RustedActivator_Charge",
+      "CustomName": "Rusted charge activator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 35,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedActivator_Regeneration": {
+      "DefName": "NAT_RustedActivator_Regeneration",
+      "CustomName": "Rusted regeneration activator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 45,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedActivator_Stability": {
+      "DefName": "NAT_RustedActivator_Stability",
+      "CustomName": "Rusted stability activator",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 60,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_ShardUpgrader": {
+      "DefName": "NAT_ShardUpgrader",
+      "CustomName": "Shard upgrader",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 1250,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Apparel_RustedGrenadesPack": {
+      "DefName": "NAT_Apparel_RustedGrenadesPack",
+      "CustomName": "Rusted grenades pack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 36,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_PainPulser": {
+      "DefName": "NAT_PainPulser",
+      "CustomName": "Pain pulser",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 800,
+      "Category": "Artifacts",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Apparel_PainLance": {
+      "DefName": "NAT_Apparel_PainLance",
+      "CustomName": "Pain lance",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 850,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedGuardsman": {
+      "DefName": "NAT_RustedGuardsman",
+      "CustomName": "Rusted guardsman",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 2100,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedOfficer": {
+      "DefName": "NAT_RustedOfficer",
+      "CustomName": "Rusted officer",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 2700,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedSoldier": {
+      "DefName": "NAT_RustedSoldier",
+      "CustomName": "Rusted infantryman",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 1100,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_RustedTrooper": {
+      "DefName": "NAT_RustedTrooper",
+      "CustomName": "Rusted stormtrooper",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 900,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedMachineGun": {
+      "DefName": "NAT_Gun_RustedMachineGun",
+      "CustomName": "Rusted machine gun",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 600,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedAssaultShotgun": {
+      "DefName": "NAT_Gun_RustedAssaultShotgun",
+      "CustomName": "Rusted assault shotgun",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 600,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedSniperRifle": {
+      "DefName": "NAT_Gun_RustedSniperRifle",
+      "CustomName": "Rusted sniper rifle",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 700,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedRevolver": {
+      "DefName": "NAT_Gun_RustedRevolver",
+      "CustomName": "Rusted revolver",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 200,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedBoltActionRifle": {
+      "DefName": "NAT_Gun_RustedBoltActionRifle",
+      "CustomName": "Rusted rifle",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 300,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedCarabine": {
+      "DefName": "NAT_Gun_RustedCarabine",
+      "CustomName": "Rusted carabine",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 300,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedShotgun": {
+      "DefName": "NAT_Gun_RustedShotgun",
+      "CustomName": "Rusted shotgun",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 300,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedSMG": {
+      "DefName": "NAT_Gun_RustedSMG",
+      "CustomName": "Rusted SMG",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 350,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Gun_RustedAssaultSMG": {
+      "DefName": "NAT_Gun_RustedAssaultSMG",
+      "CustomName": "Rusted assault SMG",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 400,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_Weapon_RustedGrenade": {
+      "DefName": "NAT_Weapon_RustedGrenade",
+      "CustomName": "Rusted grenades",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 250,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_MeleeWeapon_RustedSword": {
+      "DefName": "NAT_MeleeWeapon_RustedSword",
+      "CustomName": "Rusted sword",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 250,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_MeleeWeapon_RustedAxe": {
+      "DefName": "NAT_MeleeWeapon_RustedAxe",
+      "CustomName": "Rusted axe",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 250,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "NAT_MeleeWeapon_RustedArmyBanner": {
+      "DefName": "NAT_MeleeWeapon_RustedArmyBanner",
+      "CustomName": "Rusted army banner",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "New Anomaly Threats",
+      "BasePrice": 100,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Spitbane": {
+      "DefName": "Spitbane",
+      "CustomName": "Spitbane",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1180,
+      "Category": "Bionic",
+      "Enabled": true,
+      "modactive": true
+    },
+    "CerebralFortifier": {
+      "DefName": "CerebralFortifier",
+      "CustomName": "Cerebral fortifier",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1450,
+      "Category": "Bionic",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mindlock": {
+      "DefName": "Mindlock",
+      "CustomName": "Mindlock implant",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2465,
+      "Category": "Ghoul",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_MonitoringThrone": {
+      "DefName": "Gha_MonitoringThrone",
+      "CustomName": "Monitor throne",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1305,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_ObeliskSuppressor": {
+      "DefName": "Gha_ObeliskSuppressor",
+      "CustomName": "Obelisk suppressor",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 535,
+      "Category": "Special",
+      "Enabled": true,
+      "modactive": true
+    },
+    "GHA_Syndicate_Capsule": {
+      "DefName": "GHA_Syndicate_Capsule",
+      "CustomName": "Syndicate Capsule",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 100,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_WeaponDataChip": {
+      "DefName": "Gha_WeaponDataChip",
+      "CustomName": "Weapon data chip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 800,
+      "Category": "Manufactured",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_BuildingDataChip": {
+      "DefName": "Gha_BuildingDataChip",
+      "CustomName": "Construction data chip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 800,
+      "Category": "Manufactured",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_SerumDataChip": {
+      "DefName": "Gha_SerumDataChip",
+      "CustomName": "Anomaly data chip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 800,
+      "Category": "Manufactured",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_ArmorDataChip": {
+      "DefName": "Gha_ArmorDataChip",
+      "CustomName": "Armor data chip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 800,
+      "Category": "Manufactured",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_MechanoidDataChip": {
+      "DefName": "Gha_MechanoidDataChip",
+      "CustomName": "Mechanoid data chip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 800,
+      "Category": "Manufactured",
+      "Enabled": true,
+      "modactive": true
+    },
+    "MindWakeSerum": {
+      "DefName": "MindWakeSerum",
+      "CustomName": "Mind wake serum",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 60,
+      "Category": "Drugs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_CrashSiteBeacon": {
+      "DefName": "Gha_CrashSiteBeacon",
+      "CustomName": "Crash site beacon",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 200,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Apparel_RevenateHelmet": {
+      "DefName": "Gha_Apparel_RevenateHelmet",
+      "CustomName": "Revenate helment",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1035,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Apparel_ArmorExterminator": {
+      "DefName": "Gha_Apparel_ArmorExterminator",
+      "CustomName": "Exterminator armor",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 3520,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Apparel_ArmorHelmetExterminator": {
+      "DefName": "Gha_Apparel_ArmorHelmetExterminator",
+      "CustomName": "Exterminator helmet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1145,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Apparel_ArmorSynapse": {
+      "DefName": "Gha_Apparel_ArmorSynapse",
+      "CustomName": "Synapse armor",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2775,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Apparel_ArmorSynapseHelmet": {
+      "DefName": "Gha_Apparel_ArmorSynapseHelmet",
+      "CustomName": "Synapse helmet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1115,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Apparel_GHA_ArmorJudicator": {
+      "DefName": "Apparel_GHA_ArmorJudicator",
+      "CustomName": "Judicator armor",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 5100,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mech_Gha_Horax_Vanguard": {
+      "DefName": "Mech_Gha_Horax_Vanguard",
+      "CustomName": "Void reaver",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1200,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mech_Gha_Horax_Venatoris": {
+      "DefName": "Mech_Gha_Horax_Venatoris",
+      "CustomName": "Needlefiend",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1200,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mech_Gha_Horax_Bulwark": {
+      "DefName": "Mech_Gha_Horax_Bulwark",
+      "CustomName": "Void sentinel",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1600,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mech_Gha_Vanguard": {
+      "DefName": "Mech_Gha_Vanguard",
+      "CustomName": "Vanguard",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1200,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mech_Gha_Venatoris": {
+      "DefName": "Mech_Gha_Venatoris",
+      "CustomName": "Venatoris",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1200,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Mech_Gha_Bulwark": {
+      "DefName": "Mech_Gha_Bulwark",
+      "CustomName": "Bulwark",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1600,
+      "Category": "Mechs",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_MeleeWeapon_PlasmaAxe": {
+      "DefName": "Gha_MeleeWeapon_PlasmaAxe",
+      "CustomName": "Plasma axe",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2000,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_MeleeWeapon_PlasmaBroadSword": {
+      "DefName": "Gha_MeleeWeapon_PlasmaBroadSword",
+      "CustomName": "Plasma broadsword",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2000,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_MeleeWeapon_VoidPlasmaBroadSword": {
+      "DefName": "Gha_MeleeWeapon_VoidPlasmaBroadSword",
+      "CustomName": "Crimson plasma broadsword",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2000,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gun_Gha_PlasmaRifle": {
+      "DefName": "Gun_Gha_PlasmaRifle",
+      "CustomName": "Plasma assault rifle",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2035,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gun_Gha_PlasmaPistol": {
+      "DefName": "Gun_Gha_PlasmaPistol",
+      "CustomName": "Plasma pistol",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1410,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gun_Gha_PlasmaCaster": {
+      "DefName": "Gun_Gha_PlasmaCaster",
+      "CustomName": "Plasma caster ",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 2685,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Gun_Needler": {
+      "DefName": "Gha_Gun_Needler",
+      "CustomName": "Needler gun",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1400,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Gha_Gun_VoidNeedler": {
+      "DefName": "Gha_Gun_VoidNeedler",
+      "CustomName": "Spiker",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Protocol Anomaly: Syndicate",
+      "BasePrice": 1400,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "RWE_Map": {
+      "DefName": "RWE_Map",
+      "CustomName": "Map",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Rimworld Exploration Mode",
+      "BasePrice": 250,
+      "Category": "Misc",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_DrumStool": {
+      "DefName": "TST_DrumStool",
+      "CustomName": "Drum stool",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 159,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_DrumBench": {
+      "DefName": "TST_DrumBench",
+      "CustomName": "Drum bench",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 310,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_CushionedPew": {
+      "DefName": "TST_CushionedPew",
+      "CustomName": "Cushioned pew",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 220,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_BoxPew": {
+      "DefName": "TST_BoxPew",
+      "CustomName": "Box pew",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 290,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_PrieDieu": {
+      "DefName": "TST_PrieDieu",
+      "CustomName": "Prie-dieu",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 99,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_SlabPew": {
+      "DefName": "TST_SlabPew",
+      "CustomName": "Slab pew",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 179,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "TST_MeditationStone": {
+      "DefName": "TST_MeditationStone",
+      "CustomName": "Meditation stone",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "More Ritual Seats",
+      "BasePrice": 79,
+      "Category": "Furniture",
       "Enabled": true,
       "modactive": true
     }
