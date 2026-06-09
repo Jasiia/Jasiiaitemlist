@@ -191,6 +191,18 @@
     "modactive": true,
     "Version": 1
   },
+  "VPE_Hurricane": {
+    "DefName": "VPE_Hurricane",
+    "Label": "hurricane",
+    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Psycasts Expanded",
+    "modactive": true,
+    "Version": 1
+  },
   "RG_Windy": {
     "DefName": "RG_Windy",
     "Label": "Breezy ",
@@ -239,15 +251,15 @@
     "modactive": true,
     "Version": 1
   },
-  "VPE_Hurricane": {
-    "DefName": "VPE_Hurricane",
-    "Label": "hurricane",
-    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
-    "BaseCost": 300,
-    "KarmaType": "Bad",
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "Vanilla Psycasts Expanded",
+    "ModSource": "Vanilla Furniture Expanded - Power",
     "modactive": true,
     "Version": 1
   },
@@ -272,18 +284,6 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Landmarks Expanded",
-    "modactive": true,
-    "Version": 1
-  },
-  "VPE_RadioactiveFog": {
-    "DefName": "VPE_RadioactiveFog",
-    "Label": "radioactive fog",
-    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
-    "BaseCost": 150,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Vanilla Furniture Expanded - Power",
     "modactive": true,
     "Version": 1
   },
@@ -320,7 +320,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Anomaly Research Asteroid",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   }
 }
