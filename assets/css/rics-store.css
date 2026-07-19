@@ -1,6 +1,10 @@
 /* ==================== THEME VARIABLES ==================== */
-:root,
-[data-theme="light"] {
+/*
+ * Light defaults on :root.
+ * Dark MUST use html[data-theme="dark"] (higher specificity than :root)
+ * so it actually wins when the toggle flips the attribute.
+ */
+:root {
     color-scheme: light;
 
     --bg-page: linear-gradient(135deg, #f5f7fa 0%, #e9ecf5 100%);
@@ -68,7 +72,7 @@
     --selection-bg: #667eea;
 }
 
-[data-theme="dark"] {
+html[data-theme="dark"] {
     color-scheme: dark;
 
     --bg-page: linear-gradient(135deg, #0f1117 0%, #1a1625 100%);
@@ -147,10 +151,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--text);
-    background: var(--bg-page);
-    background-color: var(--bg-page-solid);
+    background: var(--bg-page-solid);
+    background-image: var(--bg-page);
     min-height: 100vh;
     transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+html[data-theme="dark"] body {
+    background-color: var(--bg-page-solid);
 }
 
 .container {

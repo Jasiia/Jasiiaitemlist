@@ -26,7 +26,11 @@ class RICSStore {
 
     applyTheme(theme, { persist = false } = {}) {
         const next = theme === 'dark' ? 'dark' : 'light';
-        document.documentElement.setAttribute('data-theme', next);
+        const root = document.documentElement;
+        root.setAttribute('data-theme', next);
+        root.classList.toggle('theme-dark', next === 'dark');
+        root.classList.toggle('theme-light', next === 'light');
+        root.style.colorScheme = next;
         if (persist) {
             try {
                 localStorage.setItem('rics-theme', next);
@@ -53,14 +57,20 @@ class RICSStore {
         this.applyTheme(current, { persist: false });
 
         const btn = document.getElementById('theme-toggle');
-        if (btn) {
-            btn.addEventListener('click', () => {
-                const now = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
-                this.applyTheme(now === 'dark' ? 'light' : 'dark', { persist: true });
-            });
+        if (!btn) {
+            console.warn('Theme toggle button #theme-toggle not found');
+            return;
         }
 
-        // Follow OS theme only until the user picks one manually
+        btn.onclick = (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const now = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+            const next = now === 'dark' ? 'light' : 'dark';
+            this.applyTheme(next, { persist: true });
+            console.log('Theme switched to', next);
+        };
+
         try {
             window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
                 try {
