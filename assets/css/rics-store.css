@@ -548,6 +548,35 @@ header h1 {
     font-weight: 600;
 }
 
+.command-label {
+    font-weight: 500;
+    color: var(--text-muted);
+    font-size: 0.92em;
+}
+
+.command-summary-desc {
+    display: block;
+    margin-top: 6px;
+    margin-right: 28px;
+    font-weight: 400;
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.35;
+    white-space: pre-wrap;
+}
+
+.command-description-row .command-description-text {
+    text-align: left;
+    font-weight: 400;
+    color: var(--text);
+    line-height: 1.45;
+    white-space: pre-wrap;
+}
+
+.command-description-row .command-setting-label {
+    flex: 0 0 22%;
+}
+
 .command-settings-section {
     padding: 12px 20px 6px;
     background: var(--bg-surface-soft);

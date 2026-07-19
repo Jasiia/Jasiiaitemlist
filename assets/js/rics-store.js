@@ -282,6 +282,8 @@ processRacesData(racesObject) {
                 return {
                     defName: key,
                     name: key,
+                    label: cmd.Label || '',
+                    description: this.normalizeCommandDescription(cmd.CommandDescription || cmd.Description || ''),
                     enabled: cmd.Enabled === true,
                     cooldownSeconds: cmd.CooldownSeconds ?? 0,
                     cost: cmd.Cost ?? 0,
@@ -308,6 +310,15 @@ processRacesData(racesObject) {
                 };
             })
             .sort((a, b) => a.name.localeCompare(b.name));
+    }
+
+    /** Normalize description text from Commands.xml (handles /n and \\n line breaks). */
+    normalizeCommandDescription(text) {
+        if (!text) return '';
+        return String(text)
+            .replace(/\\n/g, '\n')
+            .replace(/\/n/g, '\n')
+            .trim();
     }
 
     /**
@@ -627,13 +638,21 @@ processRacesData(racesObject) {
                 ? ` • <span class="command-custom-hint">${customCount} option${customCount === 1 ? '' : 's'}</span>`
                 : '';
 
+            const labelText = cmd.label
+                ? ` <span class="command-label">(${this.escapeHtml(cmd.label)})</span>`
+                : '';
+            const summaryDesc = cmd.description
+                ? `<div class="command-summary-desc">${this.escapeHtml(cmd.description)}</div>`
+                : '';
+
             html += `
                 <details class="race-group command-group ${statusClass}">
                     <summary>
                         <span class="status-badge ${statusClass}">${statusLabel}</span>
-                        <strong>!${this.escapeHtml(cmd.name)}</strong>
+                        <strong>!${this.escapeHtml(cmd.name)}</strong>${labelText}
                         <span class="command-perm">${this.escapeHtml(cmd.permissionLevel)}</span>
                         ${aliasText}${costText}${cooldownText}${customHint}
+                        ${summaryDesc}
                     </summary>
                     <div class="command-settings-list">
                         ${this.renderCommandSettings(cmd)}
@@ -677,6 +696,15 @@ processRacesData(racesObject) {
         };
 
         addSection('General');
+        if (cmd.label) add('Label', cmd.label);
+        if (cmd.description) {
+            rows.push(`
+                <div class="command-setting-row command-description-row">
+                    <div class="command-setting-label">Description</div>
+                    <div class="command-setting-value command-description-text">${this.escapeHtml(cmd.description)}</div>
+                </div>
+            `);
+        }
         add('Enabled', cmd.enabled);
         add('Permission', cmd.permissionLevel);
         add('Command alias', cmd.commandAlias || '(none)');
@@ -850,7 +878,8 @@ processRacesData(racesObject) {
                     .map(s => `${s.key} ${s.label} ${s.value}`)
                     .join(' ');
                 const text = [
-                    cmd.name, cmd.defName, cmd.commandAlias, cmd.permissionLevel,
+                    cmd.name, cmd.defName, cmd.label, cmd.description,
+                    cmd.commandAlias, cmd.permissionLevel,
                     status, String(cmd.cost), String(cmd.cooldownSeconds),
                     ...(cmd.allowedRaidTypes || []),
                     ...(cmd.allowedRaidStrategies || []),
