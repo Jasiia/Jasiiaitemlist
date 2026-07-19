@@ -39,7 +39,7 @@ A GitHub Pages site for displaying RICS mod purchase lists.
   - `Traits.json`
   - `RaceSettings.json`
   - `Weather.json`
-  - `CommandSettings.json` ← chat command settings from CAP_ChatInteractive
+  - `CommandSettings.json` ← chat command settings from RICS
   - `ActiveMods.json` ← automatically created by RICS on every game start (contains active mods + Steam IDs)
 
 ## Updating Your Fork
