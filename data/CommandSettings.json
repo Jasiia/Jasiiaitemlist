@@ -265,25 +265,6 @@
     "MaxLootBoxSize": 10,
     "CustomData": ""
   },
-  "storyteller": {
-    "Enabled": true,
-    "CooldownSeconds": 0,
-    "Cost": 0,
-    "SupportsCost": false,
-    "PermissionLevel": "everyone",
-    "RequiresConfirmation": false,
-    "CommandAlias": "",
-    "useCommandCooldown": false,
-    "MaxUsesPerCooldownPeriod": 0,
-    "Label": "Storyteller",
-    "CommandDescription": "Returns the name of the current storyteller and difficulty level.",
-    "AllowedRaidTypes": [],
-    "AllowedRaidStrategies": [],
-    "DefaultLootBoxSize": 1,
-    "MinLootBoxSize": 1,
-    "MaxLootBoxSize": 10,
-    "CustomData": ""
-  },
   "storage": {
     "Enabled": true,
     "CooldownSeconds": 0,
@@ -437,7 +418,7 @@
     "CustomData": "{\"showDebugInfo\":\"false\"}"
   },
   "giftcoins": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -475,7 +456,7 @@
     "CustomData": ""
   },
   "pawn": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -1004,7 +985,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"minPassionWager\":\"500\",\"maxPassionWager\":\"1000\",\"passionWagerBonusPer100\":\"1.0\",\"maxPassionWagerBonus\":\"30.0\",\"basePassionSuccessChance\":\"15.0\",\"maxPassionSuccessChance\":\"60.0\",\"criticalSuccessRatio\":\"0.2\",\"maxCriticalSuccessChance\":\"5.0\",\"criticalFailBaseChance\":\"10.0\",\"criticalFailReductionFactor\":\"0.1\",\"minCriticalFailChance\":\"2.0\",\"critSuccessUpgradeVsNewChance\":\"0.5\",\"critFailLoseVsWrongChance\":\"0.6\",\"targetedCritFailAffectTargetChance\":\"0.7\"}"
+    "CustomData": "{\"minPassionWager\":\"500\",\"maxPassionWager\":\"1000\",\"passionWagerBonusPer100\":\"1.0\",\"maxPassionWagerBonus\":\"30.0\",\"basePassionSuccessChance\":\"15\",\"maxPassionSuccessChance\":\"70\",\"criticalSuccessRatio\":\"0.3\",\"maxCriticalSuccessChance\":\"5.0\",\"criticalFailBaseChance\":\"10.0\",\"criticalFailReductionFactor\":\"0.1\",\"minCriticalFailChance\":\"2.0\",\"critSuccessUpgradeVsNewChance\":\"0.5\",\"critFailLoseVsWrongChance\":\"0.6\",\"targetedCritFailAffectTargetChance\":\"0.7\"}"
   },
   "races": {
     "Enabled": true,
@@ -1051,7 +1032,7 @@
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
-    "CommandAlias": "join",
+    "CommandAlias": "",
     "useCommandCooldown": false,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "join queue",
@@ -1349,17 +1330,36 @@
     "CustomData": ""
   },
   "ricsaichatbot": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 8,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
-    "CommandAlias": "masie",
-    "useCommandCooldown": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "AI Chatbot",
     "CommandDescription": "!!!DO NOT TURN THIS ON!!!Talk to the AI storyteller . Requires AIChatBotActive in settings.",
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "storyteller": {
+    "Enabled": true,
+    "CooldownSeconds": 0,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "everyone",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "Storyteller",
+    "CommandDescription": "Returns the name of the current storyteller and difficulty level.",
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],
     "DefaultLootBoxSize": 1,
