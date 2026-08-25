@@ -1493,7 +1493,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Dubs Bad Hygiene",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Hygienic_1": {
@@ -1512,7 +1512,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Dubs Bad Hygiene",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Hygienic_-1": {
@@ -1531,7 +1531,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Dubs Bad Hygiene",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Hygienic_-2": {
@@ -1550,7 +1550,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Dubs Bad Hygiene",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VRE_Flirty_0": {
@@ -4747,7 +4747,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Misc. Robots",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RBM_Herculean_Trait_0": {
@@ -4842,7 +4842,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Memes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AG_Beauty_2": {
@@ -4863,7 +4863,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Genes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AG_Beauty_-2": {
@@ -4884,7 +4884,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Genes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BMT_BeeLover_0": {
@@ -4903,7 +4903,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Biomes! Bees",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BMT_BeeHater_0": {
@@ -4922,7 +4922,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Biomes! Bees",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }

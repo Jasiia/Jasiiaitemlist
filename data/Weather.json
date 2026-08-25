@@ -392,7 +392,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VGE_ToxicDustCloud": {
@@ -404,7 +404,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }
