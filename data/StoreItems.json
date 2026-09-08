@@ -9972,7 +9972,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1990,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GravFieldExtender": {
@@ -9987,7 +9987,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1615,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "PilotConsole": {
@@ -10002,7 +10002,7 @@
       "Mod": "Odyssey",
       "BasePrice": 375,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SmallThruster": {
@@ -10017,7 +10017,7 @@
       "Mod": "Odyssey",
       "BasePrice": 510,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "LargeThruster": {
@@ -10032,7 +10032,7 @@
       "Mod": "Odyssey",
       "BasePrice": 765,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FuelOptimizer": {
@@ -10047,7 +10047,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1550,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SignalJammer": {
@@ -10062,7 +10062,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2855,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GravcorePowerCell": {
@@ -10077,7 +10077,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1975,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "PilotSubpersonaCore": {
@@ -10092,7 +10092,7 @@
       "Mod": "Odyssey",
       "BasePrice": 975,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GravshipShieldGenerator": {
@@ -10107,7 +10107,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2295,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AncientMiningCharge": {
@@ -10122,7 +10122,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "OxygenPump": {
@@ -10137,7 +10137,7 @@
       "Mod": "Odyssey",
       "BasePrice": 205,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "HunterDroneTrap": {
@@ -10887,7 +10887,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1250,
       "Category": "Manufactured",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GravlitePanel": {
@@ -10902,7 +10902,7 @@
       "Mod": "Odyssey",
       "BasePrice": 4,
       "Category": "Raw resources",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ShuttleEngine": {
@@ -10917,7 +10917,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2595,
       "Category": "Manufactured",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Obsidian": {
@@ -11262,7 +11262,7 @@
       "Mod": "Odyssey",
       "BasePrice": 5000,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Apparel_Vacsuit": {
@@ -11967,7 +11967,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1960,
       "Category": "Animals",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Locust": {
@@ -12042,7 +12042,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Gun_BeamRepeater": {
@@ -55408,7 +55408,7 @@
       "BasePrice": 535,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_GravshipCrate": {
       "DefName": "sbz_GravshipCrate",
@@ -55423,7 +55423,7 @@
       "BasePrice": 235,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_LongGravshipCrate": {
       "DefName": "sbz_LongGravshipCrate",
@@ -55438,7 +55438,7 @@
       "BasePrice": 590,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_GravshipGlassShelf": {
       "DefName": "sbz_GravshipGlassShelf",
@@ -55453,7 +55453,7 @@
       "BasePrice": 47,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_GravshipTwoTierShelf": {
       "DefName": "sbz_GravshipTwoTierShelf",
@@ -55468,7 +55468,7 @@
       "BasePrice": 85,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_GravshipShelf": {
       "DefName": "sbz_GravshipShelf",
@@ -55483,7 +55483,7 @@
       "BasePrice": 47,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_SmallGravshipShelf": {
       "DefName": "sbz_SmallGravshipShelf",
@@ -55498,7 +55498,7 @@
       "BasePrice": 24,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "sbz_GravshipWeaponRack": {
       "DefName": "sbz_GravshipWeaponRack",
@@ -55513,7 +55513,7 @@
       "BasePrice": 24,
       "Category": "Storage",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "BfG_NeuralSupercharger": {
       "DefName": "BfG_NeuralSupercharger",
@@ -64977,7 +64977,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 270,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Apparel_Vacsuit_Prestige": {
@@ -65022,7 +65022,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactGeneBank": {
@@ -65037,7 +65037,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 120,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Astronaut": {
@@ -65052,7 +65052,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Astropurifier": {
@@ -65067,7 +65067,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 2100,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GiantThruster": {
@@ -65082,7 +65082,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 2035,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_OxygenReclaimer": {
@@ -65097,7 +65097,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1500,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactStove": {
@@ -65112,7 +65112,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 210,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactDrugLab": {
@@ -65127,7 +65127,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 345,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactMachiningTable": {
@@ -65142,7 +65142,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 420,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactSmithy": {
@@ -65157,7 +65157,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 285,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactTailor": {
@@ -65172,7 +65172,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 270,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactRefinery": {
@@ -65187,7 +65187,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 320,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactFabBench": {
@@ -65202,7 +65202,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1135,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_WallToolCabinet": {
@@ -65217,7 +65217,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 290,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravjumperEngine": {
@@ -65232,7 +65232,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1800,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravhulkEngine": {
@@ -65247,7 +65247,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 12500,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravFieldAmplifier": {
@@ -65262,7 +65262,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 3975,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CrewBunkBed": {
@@ -65277,7 +65277,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 166,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_MedbayBed": {
@@ -65292,7 +65292,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 370,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CrewLockers": {
@@ -65307,7 +65307,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 107,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravshipShelf": {
@@ -65322,7 +65322,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 64,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_WallFirefoamPopper": {
@@ -65337,7 +65337,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 180,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_WallOrbitalTradeBeacon": {
@@ -65352,7 +65352,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 111,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_FauxPlant": {
@@ -65367,7 +65367,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 40,
       "Category": "Furniture",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_SealantPopper": {
@@ -65382,7 +65382,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 142,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_PilotCockpit": {
@@ -65397,7 +65397,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 240,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_PilotBridge": {
@@ -65412,7 +65412,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1045,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CopilotConsole": {
@@ -65427,7 +65427,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 295,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravcorePowerCoil": {
@@ -65442,7 +65442,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 5465,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravshipCapacitor": {
@@ -65457,7 +65457,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 305,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravtechConsole": {
@@ -65472,7 +65472,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 395,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GravshipBlackBox": {
@@ -65487,7 +65487,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 2200,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_FlightComputer": {
@@ -65502,7 +65502,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1600,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactResearchBench": {
@@ -65517,7 +65517,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1100,
       "Category": "Production",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CompactMultiAnalyzer": {
@@ -65532,7 +65532,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 720,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_GunnerSubpersonaCore": {
@@ -65547,7 +65547,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1900,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_MaintenanceHub": {
@@ -65562,7 +65562,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1400,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_CapacitorHarmonizer": {
@@ -65577,7 +65577,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1800,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Gravlift": {
@@ -65592,7 +65592,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 2500,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_OxygenCanister": {
@@ -65607,7 +65607,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1,
       "Category": "Manufactured",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Astrofuel": {
@@ -65622,7 +65622,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 6,
       "Category": "Manufactured",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Oxyalgae": {
@@ -65637,7 +65637,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1,
       "Category": "Foods",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Apparel_OxygenPack": {
@@ -65652,7 +65652,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 104,
       "Category": "Apparel",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Astropede": {
@@ -65667,7 +65667,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1350,
       "Category": "Mechs",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_Hunter": {
@@ -65682,7 +65682,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_MassLance": {
@@ -65697,7 +65697,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 900,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "VGE_RocketswarmPod": {
@@ -65712,7 +65712,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 430,
       "Category": "Weapon",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "AdvShip_ShieldGenerator": {
@@ -65728,7 +65728,7 @@
       "BasePrice": 5665,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AdvShip_TimeFasterPod": {
       "DefName": "AdvShip_TimeFasterPod",
@@ -65743,7 +65743,7 @@
       "BasePrice": 4000,
       "Category": "Furniture",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "AsteroidCollector": {
       "DefName": "AsteroidCollector",
@@ -65758,7 +65758,7 @@
       "BasePrice": 3000,
       "Category": "Special",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravChemreactor_GT": {
       "DefName": "GravChemreactor_GT",
@@ -65773,7 +65773,7 @@
       "BasePrice": 3000,
       "Category": "Special",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravFieldPylon": {
       "DefName": "GravFieldPylon",
@@ -65788,7 +65788,7 @@
       "BasePrice": 2500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Turret_BeamRepeater": {
       "DefName": "Turret_BeamRepeater",
@@ -65803,7 +65803,7 @@
       "BasePrice": 1500,
       "Category": "Security",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "TrapIED_Gravcore": {
       "DefName": "TrapIED_Gravcore",
@@ -65818,7 +65818,7 @@
       "BasePrice": 1000,
       "Category": "Security",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "ShieldPylon_GT": {
       "DefName": "ShieldPylon_GT",
@@ -65833,7 +65833,7 @@
       "BasePrice": 1400,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CoolerPylon_GT": {
       "DefName": "CoolerPylon_GT",
@@ -65848,7 +65848,7 @@
       "BasePrice": 1300,
       "Category": "Temperature",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "HeaterPylon_GT": {
       "DefName": "HeaterPylon_GT",
@@ -65863,7 +65863,7 @@
       "BasePrice": 1300,
       "Category": "Temperature",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravDecreasePylon_GT": {
       "DefName": "GravDecreasePylon_GT",
@@ -65878,7 +65878,7 @@
       "BasePrice": 1300,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravIncreasePylon_GT": {
       "DefName": "GravIncreasePylon_GT",
@@ -65893,7 +65893,7 @@
       "BasePrice": 1300,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "EmptyAICore": {
       "DefName": "EmptyAICore",
@@ -65908,7 +65908,7 @@
       "BasePrice": 2000,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Gravitonium": {
       "DefName": "Gravitonium",
@@ -65923,7 +65923,7 @@
       "BasePrice": 12,
       "Category": "Raw resources",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Graweave": {
       "DefName": "Graweave",
@@ -65938,7 +65938,7 @@
       "BasePrice": 8,
       "Category": "Textiles",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "RoughGravlitePanel": {
       "DefName": "RoughGravlitePanel",
@@ -65953,7 +65953,7 @@
       "BasePrice": 2,
       "Category": "Raw resources",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Apparel_GravBelt": {
       "DefName": "Apparel_GravBelt",
@@ -65968,7 +65968,7 @@
       "BasePrice": 1800,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Apparel_GravPack": {
       "DefName": "Apparel_GravPack",
@@ -65983,7 +65983,7 @@
       "BasePrice": 2300,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravSpine": {
       "DefName": "GravSpine",
@@ -65998,7 +65998,7 @@
       "BasePrice": 2300,
       "Category": "Prosthetic",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravArmor": {
       "DefName": "GravArmor",
@@ -66013,7 +66013,7 @@
       "BasePrice": 2300,
       "Category": "Prosthetic",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravStomach": {
       "DefName": "GravStomach",
@@ -66028,7 +66028,7 @@
       "BasePrice": 2300,
       "Category": "Prosthetic",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravHands": {
       "DefName": "GravHands",
@@ -66043,7 +66043,7 @@
       "BasePrice": 3600,
       "Category": "Prosthetic",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravBlaster": {
       "DefName": "GravBlaster",
@@ -66058,7 +66058,7 @@
       "BasePrice": 3600,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravBeamCannon": {
       "DefName": "GravBeamCannon",
@@ -66073,7 +66073,7 @@
       "BasePrice": 3500,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravRifle": {
       "DefName": "GravRifle",
@@ -66088,7 +66088,7 @@
       "BasePrice": 4800,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravHammer": {
       "DefName": "GravHammer",
@@ -66103,7 +66103,7 @@
       "BasePrice": 4200,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GravHammerBladelink": {
       "DefName": "GravHammerBladelink",
@@ -66118,7 +66118,7 @@
       "BasePrice": 5200,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "CompressedFishFood": {
       "DefName": "CompressedFishFood",
@@ -66148,7 +66148,7 @@
       "BasePrice": 280,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GTbc_GravWaveAnalyzer": {
       "DefName": "GTbc_GravWaveAnalyzer",
@@ -66163,7 +66163,7 @@
       "BasePrice": 4500,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GTbc_MaintenanceDevice": {
       "DefName": "GTbc_MaintenanceDevice",
@@ -66178,7 +66178,7 @@
       "BasePrice": 139,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "GTbc_WallOxygenHarvester": {
       "DefName": "GTbc_WallOxygenHarvester",
@@ -66193,7 +66193,7 @@
       "BasePrice": 138,
       "Category": "Misc",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "BMT_Bees": {
       "DefName": "BMT_Bees",
@@ -66838,7 +66838,7 @@
       "BasePrice": 2000,
       "Category": "Techprints",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Techprint_BlackHole_GT": {
       "DefName": "Techprint_BlackHole_GT",
@@ -66853,7 +66853,7 @@
       "BasePrice": 3000,
       "Category": "Techprints",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Techprint_GTbc_BigCannons": {
       "DefName": "Techprint_GTbc_BigCannons",
@@ -66868,7 +66868,7 @@
       "BasePrice": 3000,
       "Category": "Techprints",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "VERI_HerbalSunscreen": {
       "DefName": "VERI_HerbalSunscreen",
@@ -67172,7 +67172,7 @@
     },
     "Apparel_FishTank": {
       "DefName": "Apparel_FishTank",
-      "CustomName": "Fish Tank",
+      "CustomName": "Fish Tank1",
       "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
@@ -67587,6 +67587,36 @@
       "Mod": "Ancient Armory",
       "BasePrice": 495,
       "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ERN_Corgi": {
+      "DefName": "ERN_Corgi",
+      "CustomName": "Corgi",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Erin's Fluffy Fauna",
+      "BasePrice": 120,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Meat_ERN_Corgi": {
+      "DefName": "Meat_ERN_Corgi",
+      "CustomName": "Corgi meat",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 75,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Erin's Fluffy Fauna",
+      "BasePrice": 2,
+      "Category": "Meat",
       "Enabled": true,
       "modactive": true
     }

@@ -1,7 +1,7 @@
 {
   "Human": {
     "DisplayName": "human",
-    "Enabled": false,
+    "Enabled": true,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -79,10 +79,25 @@
       "VRE_Animakin": 1500.0,
       "VRE_Gauranlenkin": 1500.0,
       "VRE_Poluxkin": 1500.0,
-      "OCARINA_Anthroboghound": 1500.0
+      "OCARINA_Anthroboghound": 1500.0,
+      "AG_Animusen": 1500.0,
+      "AG_Drakonori": 1500.0,
+      "AG_Efreet": 1500.0,
+      "AG_Fleetkind": 1500.0,
+      "AG_Forsaken": 1500.0,
+      "AG_Helixien": 1500.0,
+      "AG_Hiveling": 1500.0,
+      "AG_Lapis": 1500.0,
+      "AG_MindDevourer": 1500.0,
+      "AG_Nereid": 1500.0,
+      "AG_RandomCustom": 1500.0,
+      "AG_Taukai": 1500.0,
+      "AG_Wretch": 1500.0,
+      "Stoneborn": 1500.0,
+      "VRE_Ocularkin": 1500.0
     },
     "EnabledXenotypes": {
-      "Baseliner": true,
+      "Baseliner": false,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -146,7 +161,22 @@
       "VRE_Animakin": false,
       "VRE_Gauranlenkin": false,
       "VRE_Poluxkin": false,
-      "OCARINA_Anthroboghound": false
+      "OCARINA_Anthroboghound": false,
+      "AG_Animusen": false,
+      "AG_Drakonori": false,
+      "AG_Efreet": false,
+      "AG_Fleetkind": false,
+      "AG_Forsaken": false,
+      "AG_Helixien": false,
+      "AG_Hiveling": false,
+      "AG_Lapis": false,
+      "AG_MindDevourer": false,
+      "AG_Nereid": false,
+      "AG_RandomCustom": false,
+      "AG_Taukai": false,
+      "AG_Wretch": false,
+      "Stoneborn": true,
+      "VRE_Ocularkin": false
     }
   }
 }
