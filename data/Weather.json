@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RG_Drizzle": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RG_FogStorm": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RG_FoggySnow": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_RadioactiveFog": {
@@ -296,7 +296,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "More Ritual Rewards",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPEH_Bloodstorm": {
